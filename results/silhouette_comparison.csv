@@ -1,0 +1,3 @@
+representation,dimensions,distance_metric,silhouette_score,cells
+Geneformer V1,256,cosine,0.1015,2671
+Reconstructed PCA baseline,30,cosine,0.3044,2671

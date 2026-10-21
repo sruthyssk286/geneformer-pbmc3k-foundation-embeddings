@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Large single-cell datasets
+data/*.h5ad
+data/*.h5
+data/*.loom
+data/*.mtx
+data/*.mtx.gz
+
+# Model checkpoints and cached models
+checkpoints/
+models/
+huggingface_cache/
+
+# Archives and temporary files
+*.zip
+*.tar
+*.tar.gz
+*.tmp
+.DS_Store

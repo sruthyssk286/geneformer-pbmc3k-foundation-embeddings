@@ -1,0 +1,2672 @@
+cell_index,cell_type,same_type_fraction
+0,Platelets,0.0
+1,B cells,1.0
+2,B cells,1.0
+3,B cells,1.0
+4,B cells,1.0
+5,B cells,1.0
+6,B cells,0.2
+7,Antigen-presenting cells; unresolved,0.6
+8,Antigen-presenting cells; unresolved,1.0
+9,B cells,0.4
+10,Antigen-presenting cells; unresolved,1.0
+11,B cells,0.2
+12,Antigen-presenting cells; unresolved,1.0
+13,Antigen-presenting cells; unresolved,1.0
+14,Antigen-presenting cells; unresolved,1.0
+15,Antigen-presenting cells; unresolved,1.0
+16,B cells,0.2
+17,T cells,0.4
+18,Antigen-presenting cells; unresolved,1.0
+19,T cells,0.2
+20,Antigen-presenting cells; unresolved,1.0
+21,Antigen-presenting cells; unresolved,0.2
+22,B cells,0.2
+23,T cells,1.0
+24,Myeloid cells / monocytes,1.0
+25,B cells,0.4
+26,T cells,0.6
+27,Myeloid cells / monocytes,1.0
+28,NK / cytotoxic lymphocytes,0.4
+29,Myeloid cells / monocytes,1.0
+30,Myeloid cells / monocytes,1.0
+31,Myeloid cells / monocytes,1.0
+32,Antigen-presenting cells; unresolved,0.8
+33,Antigen-presenting cells; unresolved,1.0
+34,Antigen-presenting cells; unresolved,1.0
+35,B cells,0.2
+36,T cells,0.6
+37,Myeloid cells / monocytes,1.0
+38,Myeloid cells / monocytes,1.0
+39,Myeloid cells / monocytes,1.0
+40,Antigen-presenting cells; unresolved,1.0
+41,T cells,0.2
+42,Myeloid cells / monocytes,1.0
+43,T cells,1.0
+44,Antigen-presenting cells; unresolved,1.0
+45,Antigen-presenting cells; unresolved,1.0
+46,B cells,0.0
+47,Myeloid cells / monocytes,1.0
+48,T cells,0.4
+49,Myeloid cells / monocytes,1.0
+50,Antigen-presenting cells; unresolved,1.0
+51,T cells,0.8
+52,Antigen-presenting cells; unresolved,0.4
+53,Myeloid cells / monocytes,1.0
+54,Myeloid cells / monocytes,1.0
+55,Myeloid cells / monocytes,1.0
+56,Myeloid cells / monocytes,1.0
+57,Myeloid cells / monocytes,1.0
+58,Myeloid cells / monocytes,1.0
+59,Myeloid cells / monocytes,1.0
+60,Antigen-presenting cells; unresolved,0.2
+61,Myeloid cells / monocytes,0.0
+62,T cells,0.8
+63,T cells,1.0
+64,Myeloid cells / monocytes,1.0
+65,Myeloid cells / monocytes,1.0
+66,Myeloid cells / monocytes,1.0
+67,Myeloid cells / monocytes,1.0
+68,Myeloid cells / monocytes,1.0
+69,Myeloid cells / monocytes,1.0
+70,Myeloid cells / monocytes,1.0
+71,Myeloid cells / monocytes,1.0
+72,Myeloid cells / monocytes,1.0
+73,Myeloid cells / monocytes,1.0
+74,Myeloid cells / monocytes,1.0
+75,Myeloid cells / monocytes,1.0
+76,Myeloid cells / monocytes,1.0
+77,NK / cytotoxic lymphocytes,0.4
+78,Myeloid cells / monocytes,1.0
+79,Myeloid cells / monocytes,1.0
+80,Myeloid cells / monocytes,1.0
+81,Myeloid cells / monocytes,1.0
+82,Myeloid cells / monocytes,1.0
+83,Myeloid cells / monocytes,1.0
+84,T cells,0.6
+85,Myeloid cells / monocytes,1.0
+86,Myeloid cells / monocytes,0.8
+87,Myeloid cells / monocytes,1.0
+88,Myeloid cells / monocytes,1.0
+89,Myeloid cells / monocytes,0.8
+90,Antigen-presenting cells; unresolved,0.8
+91,NK / cytotoxic lymphocytes,0.4
+92,B cells,0.0
+93,Myeloid cells / monocytes,1.0
+94,Myeloid cells / monocytes,1.0
+95,Myeloid cells / monocytes,1.0
+96,Myeloid cells / monocytes,1.0
+97,T cells,0.2
+98,Antigen-presenting cells; unresolved,0.4
+99,Antigen-presenting cells; unresolved,0.6
+100,Myeloid cells / monocytes,1.0
+101,Myeloid cells / monocytes,1.0
+102,Myeloid cells / monocytes,1.0
+103,T cells,0.8
+104,Myeloid cells / monocytes,1.0
+105,NK / cytotoxic lymphocytes,0.4
+106,Myeloid cells / monocytes,1.0
+107,T cells,1.0
+108,Myeloid cells / monocytes,1.0
+109,Myeloid cells / monocytes,1.0
+110,Myeloid cells / monocytes,1.0
+111,Myeloid cells / monocytes,1.0
+112,Myeloid cells / monocytes,1.0
+113,Myeloid cells / monocytes,1.0
+114,Myeloid cells / monocytes,1.0
+115,T cells,1.0
+116,Myeloid cells / monocytes,1.0
+117,Myeloid cells / monocytes,1.0
+118,Myeloid cells / monocytes,1.0
+119,Myeloid cells / monocytes,1.0
+120,NK / cytotoxic lymphocytes,0.8
+121,Myeloid cells / monocytes,1.0
+122,B cells,0.2
+123,Myeloid cells / monocytes,1.0
+124,Myeloid cells / monocytes,1.0
+125,T cells,1.0
+126,Myeloid cells / monocytes,1.0
+127,Myeloid cells / monocytes,1.0
+128,Myeloid cells / monocytes,1.0
+129,Myeloid cells / monocytes,1.0
+130,Myeloid cells / monocytes,1.0
+131,Myeloid cells / monocytes,1.0
+132,Myeloid cells / monocytes,1.0
+133,B cells,0.0
+134,Myeloid cells / monocytes,1.0
+135,Antigen-presenting cells; unresolved,0.0
+136,Myeloid cells / monocytes,1.0
+137,Myeloid cells / monocytes,1.0
+138,Myeloid cells / monocytes,1.0
+139,Myeloid cells / monocytes,1.0
+140,T cells,1.0
+141,Myeloid cells / monocytes,1.0
+142,Myeloid cells / monocytes,1.0
+143,Myeloid cells / monocytes,1.0
+144,Myeloid cells / monocytes,1.0
+145,Myeloid cells / monocytes,1.0
+146,Myeloid cells / monocytes,1.0
+147,Myeloid cells / monocytes,1.0
+148,Myeloid cells / monocytes,0.8
+149,Myeloid cells / monocytes,1.0
+150,Myeloid cells / monocytes,1.0
+151,Myeloid cells / monocytes,1.0
+152,T cells,0.8
+153,Myeloid cells / monocytes,1.0
+154,Myeloid cells / monocytes,1.0
+155,Myeloid cells / monocytes,0.8
+156,Myeloid cells / monocytes,1.0
+157,Antigen-presenting cells; unresolved,0.2
+158,T cells,1.0
+159,Myeloid cells / monocytes,1.0
+160,Myeloid cells / monocytes,1.0
+161,T cells,0.6
+162,Myeloid cells / monocytes,1.0
+163,Myeloid cells / monocytes,1.0
+164,Myeloid cells / monocytes,1.0
+165,Myeloid cells / monocytes,1.0
+166,T cells,0.4
+167,Myeloid cells / monocytes,1.0
+168,Myeloid cells / monocytes,1.0
+169,Myeloid cells / monocytes,1.0
+170,Myeloid cells / monocytes,1.0
+171,Myeloid cells / monocytes,1.0
+172,Myeloid cells / monocytes,1.0
+173,Myeloid cells / monocytes,1.0
+174,Myeloid cells / monocytes,1.0
+175,Antigen-presenting cells; unresolved,0.2
+176,Antigen-presenting cells; unresolved,0.6
+177,Myeloid cells / monocytes,1.0
+178,Myeloid cells / monocytes,1.0
+179,NK / cytotoxic lymphocytes,0.4
+180,NK / cytotoxic lymphocytes,0.2
+181,Myeloid cells / monocytes,1.0
+182,T cells,1.0
+183,Myeloid cells / monocytes,1.0
+184,T cells,1.0
+185,Myeloid cells / monocytes,1.0
+186,Myeloid cells / monocytes,1.0
+187,Myeloid cells / monocytes,1.0
+188,Myeloid cells / monocytes,1.0
+189,Myeloid cells / monocytes,1.0
+190,Myeloid cells / monocytes,1.0
+191,T cells,1.0
+192,Myeloid cells / monocytes,1.0
+193,Myeloid cells / monocytes,0.8
+194,Myeloid cells / monocytes,1.0
+195,Myeloid cells / monocytes,1.0
+196,NK / cytotoxic lymphocytes,0.8
+197,Myeloid cells / monocytes,1.0
+198,Myeloid cells / monocytes,0.8
+199,Myeloid cells / monocytes,1.0
+200,T cells,1.0
+201,Myeloid cells / monocytes,1.0
+202,Myeloid cells / monocytes,1.0
+203,NK / cytotoxic lymphocytes,1.0
+204,NK / cytotoxic lymphocytes,0.4
+205,Myeloid cells / monocytes,1.0
+206,NK / cytotoxic lymphocytes,0.2
+207,Myeloid cells / monocytes,1.0
+208,T cells,1.0
+209,Myeloid cells / monocytes,1.0
+210,Myeloid cells / monocytes,1.0
+211,T cells,0.8
+212,B cells,0.0
+213,Myeloid cells / monocytes,0.8
+214,Myeloid cells / monocytes,1.0
+215,Myeloid cells / monocytes,1.0
+216,NK / cytotoxic lymphocytes,0.2
+217,Myeloid cells / monocytes,1.0
+218,Myeloid cells / monocytes,1.0
+219,Myeloid cells / monocytes,1.0
+220,Myeloid cells / monocytes,1.0
+221,Myeloid cells / monocytes,1.0
+222,Myeloid cells / monocytes,1.0
+223,B cells,0.6
+224,Myeloid cells / monocytes,1.0
+225,Myeloid cells / monocytes,1.0
+226,Myeloid cells / monocytes,1.0
+227,Myeloid cells / monocytes,1.0
+228,Myeloid cells / monocytes,1.0
+229,Myeloid cells / monocytes,1.0
+230,Myeloid cells / monocytes,1.0
+231,Myeloid cells / monocytes,1.0
+232,Myeloid cells / monocytes,1.0
+233,Myeloid cells / monocytes,1.0
+234,Myeloid cells / monocytes,1.0
+235,T cells,0.8
+236,Myeloid cells / monocytes,1.0
+237,T cells,1.0
+238,T cells,1.0
+239,Myeloid cells / monocytes,0.8
+240,Myeloid cells / monocytes,1.0
+241,NK / cytotoxic lymphocytes,1.0
+242,T cells,1.0
+243,B cells,0.2
+244,Myeloid cells / monocytes,1.0
+245,NK / cytotoxic lymphocytes,1.0
+246,T cells,1.0
+247,Myeloid cells / monocytes,1.0
+248,Myeloid cells / monocytes,1.0
+249,Myeloid cells / monocytes,1.0
+250,T cells,1.0
+251,Myeloid cells / monocytes,1.0
+252,Myeloid cells / monocytes,1.0
+253,Myeloid cells / monocytes,1.0
+254,Myeloid cells / monocytes,1.0
+255,Myeloid cells / monocytes,1.0
+256,Myeloid cells / monocytes,0.8
+257,T cells,1.0
+258,Myeloid cells / monocytes,1.0
+259,Myeloid cells / monocytes,1.0
+260,Myeloid cells / monocytes,1.0
+261,T cells,0.8
+262,Myeloid cells / monocytes,1.0
+263,Myeloid cells / monocytes,1.0
+264,Antigen-presenting cells; unresolved,0.4
+265,T cells,0.8
+266,Myeloid cells / monocytes,1.0
+267,Myeloid cells / monocytes,1.0
+268,T cells,0.8
+269,Myeloid cells / monocytes,1.0
+270,Myeloid cells / monocytes,1.0
+271,Myeloid cells / monocytes,0.8
+272,Myeloid cells / monocytes,1.0
+273,T cells,0.8
+274,T cells,0.8
+275,NK / cytotoxic lymphocytes,1.0
+276,Myeloid cells / monocytes,1.0
+277,Myeloid cells / monocytes,1.0
+278,T cells,0.8
+279,Myeloid cells / monocytes,1.0
+280,Myeloid cells / monocytes,1.0
+281,Myeloid cells / monocytes,1.0
+282,Myeloid cells / monocytes,1.0
+283,Myeloid cells / monocytes,1.0
+284,T cells,0.6
+285,T cells,1.0
+286,T cells,0.6
+287,NK / cytotoxic lymphocytes,1.0
+288,Myeloid cells / monocytes,0.8
+289,Myeloid cells / monocytes,1.0
+290,T cells,1.0
+291,T cells,1.0
+292,T cells,1.0
+293,Myeloid cells / monocytes,1.0
+294,Myeloid cells / monocytes,1.0
+295,Myeloid cells / monocytes,1.0
+296,Myeloid cells / monocytes,1.0
+297,T cells,0.8
+298,B cells,0.2
+299,Myeloid cells / monocytes,1.0
+300,Myeloid cells / monocytes,1.0
+301,Myeloid cells / monocytes,1.0
+302,Myeloid cells / monocytes,1.0
+303,Myeloid cells / monocytes,1.0
+304,Myeloid cells / monocytes,1.0
+305,Myeloid cells / monocytes,1.0
+306,T cells,1.0
+307,Myeloid cells / monocytes,1.0
+308,Myeloid cells / monocytes,1.0
+309,Myeloid cells / monocytes,1.0
+310,Myeloid cells / monocytes,1.0
+311,Myeloid cells / monocytes,1.0
+312,T cells,1.0
+313,T cells,1.0
+314,T cells,0.8
+315,Myeloid cells / monocytes,1.0
+316,Myeloid cells / monocytes,1.0
+317,Myeloid cells / monocytes,1.0
+318,T cells,1.0
+319,Myeloid cells / monocytes,1.0
+320,NK / cytotoxic lymphocytes,1.0
+321,Myeloid cells / monocytes,1.0
+322,Myeloid cells / monocytes,1.0
+323,T cells,0.8
+324,Myeloid cells / monocytes,1.0
+325,T cells,0.8
+326,T cells,1.0
+327,Myeloid cells / monocytes,1.0
+328,Myeloid cells / monocytes,1.0
+329,T cells,1.0
+330,Myeloid cells / monocytes,1.0
+331,NK / cytotoxic lymphocytes,0.0
+332,T cells,1.0
+333,Myeloid cells / monocytes,1.0
+334,B cells,0.2
+335,T cells,1.0
+336,Myeloid cells / monocytes,1.0
+337,NK / cytotoxic lymphocytes,1.0
+338,Myeloid cells / monocytes,1.0
+339,Myeloid cells / monocytes,1.0
+340,Myeloid cells / monocytes,1.0
+341,NK / cytotoxic lymphocytes,1.0
+342,Antigen-presenting cells; unresolved,0.0
+343,Myeloid cells / monocytes,1.0
+344,NK / cytotoxic lymphocytes,0.2
+345,NK / cytotoxic lymphocytes,0.2
+346,Myeloid cells / monocytes,1.0
+347,T cells,1.0
+348,NK / cytotoxic lymphocytes,1.0
+349,Myeloid cells / monocytes,1.0
+350,Myeloid cells / monocytes,1.0
+351,T cells,1.0
+352,Myeloid cells / monocytes,1.0
+353,Myeloid cells / monocytes,1.0
+354,NK / cytotoxic lymphocytes,0.2
+355,Myeloid cells / monocytes,1.0
+356,Myeloid cells / monocytes,1.0
+357,Myeloid cells / monocytes,1.0
+358,T cells,0.8
+359,Myeloid cells / monocytes,1.0
+360,Myeloid cells / monocytes,1.0
+361,NK / cytotoxic lymphocytes,1.0
+362,T cells,1.0
+363,T cells,0.6
+364,T cells,0.8
+365,T cells,0.8
+366,Myeloid cells / monocytes,1.0
+367,Myeloid cells / monocytes,1.0
+368,T cells,1.0
+369,T cells,1.0
+370,Myeloid cells / monocytes,1.0
+371,NK / cytotoxic lymphocytes,1.0
+372,T cells,1.0
+373,T cells,1.0
+374,Myeloid cells / monocytes,1.0
+375,NK / cytotoxic lymphocytes,1.0
+376,NK / cytotoxic lymphocytes,1.0
+377,T cells,0.8
+378,Myeloid cells / monocytes,1.0
+379,NK / cytotoxic lymphocytes,1.0
+380,Myeloid cells / monocytes,1.0
+381,Myeloid cells / monocytes,1.0
+382,NK / cytotoxic lymphocytes,0.2
+383,T cells,1.0
+384,Myeloid cells / monocytes,1.0
+385,T cells,1.0
+386,Antigen-presenting cells; unresolved,0.0
+387,T cells,1.0
+388,Myeloid cells / monocytes,1.0
+389,Myeloid cells / monocytes,1.0
+390,Myeloid cells / monocytes,1.0
+391,T cells,0.6
+392,T cells,0.6
+393,Myeloid cells / monocytes,1.0
+394,Myeloid cells / monocytes,1.0
+395,T cells,1.0
+396,Myeloid cells / monocytes,1.0
+397,Myeloid cells / monocytes,1.0
+398,Myeloid cells / monocytes,1.0
+399,T cells,1.0
+400,NK / cytotoxic lymphocytes,1.0
+401,NK / cytotoxic lymphocytes,1.0
+402,Myeloid cells / monocytes,1.0
+403,T cells,1.0
+404,T cells,1.0
+405,Myeloid cells / monocytes,1.0
+406,Myeloid cells / monocytes,1.0
+407,Myeloid cells / monocytes,1.0
+408,Myeloid cells / monocytes,1.0
+409,T cells,1.0
+410,Myeloid cells / monocytes,1.0
+411,NK / cytotoxic lymphocytes,1.0
+412,T cells,1.0
+413,Myeloid cells / monocytes,1.0
+414,T cells,1.0
+415,T cells,1.0
+416,NK / cytotoxic lymphocytes,1.0
+417,T cells,1.0
+418,T cells,1.0
+419,Myeloid cells / monocytes,1.0
+420,Myeloid cells / monocytes,1.0
+421,NK / cytotoxic lymphocytes,1.0
+422,T cells,1.0
+423,Myeloid cells / monocytes,1.0
+424,NK / cytotoxic lymphocytes,1.0
+425,T cells,1.0
+426,T cells,1.0
+427,Myeloid cells / monocytes,1.0
+428,T cells,1.0
+429,Myeloid cells / monocytes,1.0
+430,T cells,1.0
+431,T cells,1.0
+432,T cells,1.0
+433,T cells,1.0
+434,T cells,1.0
+435,T cells,1.0
+436,Myeloid cells / monocytes,1.0
+437,Myeloid cells / monocytes,1.0
+438,T cells,1.0
+439,B cells,0.4
+440,T cells,1.0
+441,Myeloid cells / monocytes,1.0
+442,T cells,0.8
+443,Myeloid cells / monocytes,1.0
+444,T cells,1.0
+445,B cells,0.8
+446,Myeloid cells / monocytes,1.0
+447,T cells,1.0
+448,T cells,1.0
+449,T cells,1.0
+450,B cells,0.8
+451,B cells,0.4
+452,T cells,1.0
+453,Antigen-presenting cells; unresolved,0.4
+454,T cells,1.0
+455,T cells,1.0
+456,NK / cytotoxic lymphocytes,1.0
+457,NK / cytotoxic lymphocytes,1.0
+458,T cells,0.8
+459,Myeloid cells / monocytes,1.0
+460,Myeloid cells / monocytes,1.0
+461,Myeloid cells / monocytes,1.0
+462,T cells,1.0
+463,T cells,1.0
+464,NK / cytotoxic lymphocytes,1.0
+465,NK / cytotoxic lymphocytes,0.8
+466,Myeloid cells / monocytes,1.0
+467,Antigen-presenting cells; unresolved,0.4
+468,Myeloid cells / monocytes,1.0
+469,T cells,1.0
+470,Myeloid cells / monocytes,1.0
+471,NK / cytotoxic lymphocytes,0.6
+472,B cells,0.2
+473,T cells,1.0
+474,NK / cytotoxic lymphocytes,1.0
+475,T cells,1.0
+476,Myeloid cells / monocytes,1.0
+477,T cells,1.0
+478,Myeloid cells / monocytes,1.0
+479,B cells,0.8
+480,NK / cytotoxic lymphocytes,1.0
+481,T cells,1.0
+482,Myeloid cells / monocytes,1.0
+483,T cells,1.0
+484,Myeloid cells / monocytes,1.0
+485,NK / cytotoxic lymphocytes,1.0
+486,NK / cytotoxic lymphocytes,1.0
+487,T cells,1.0
+488,Myeloid cells / monocytes,1.0
+489,Myeloid cells / monocytes,1.0
+490,NK / cytotoxic lymphocytes,0.8
+491,Myeloid cells / monocytes,1.0
+492,T cells,1.0
+493,Myeloid cells / monocytes,1.0
+494,NK / cytotoxic lymphocytes,1.0
+495,Myeloid cells / monocytes,1.0
+496,Myeloid cells / monocytes,1.0
+497,B cells,0.8
+498,T cells,1.0
+499,T cells,1.0
+500,T cells,1.0
+501,T cells,1.0
+502,T cells,1.0
+503,T cells,1.0
+504,Myeloid cells / monocytes,1.0
+505,Myeloid cells / monocytes,0.8
+506,T cells,1.0
+507,NK / cytotoxic lymphocytes,1.0
+508,T cells,1.0
+509,Myeloid cells / monocytes,1.0
+510,NK / cytotoxic lymphocytes,1.0
+511,T cells,1.0
+512,T cells,1.0
+513,T cells,1.0
+514,NK / cytotoxic lymphocytes,0.6
+515,T cells,1.0
+516,T cells,1.0
+517,T cells,1.0
+518,T cells,1.0
+519,Myeloid cells / monocytes,1.0
+520,Myeloid cells / monocytes,1.0
+521,Antigen-presenting cells; unresolved,0.2
+522,NK / cytotoxic lymphocytes,0.8
+523,T cells,1.0
+524,Myeloid cells / monocytes,1.0
+525,NK / cytotoxic lymphocytes,1.0
+526,Myeloid cells / monocytes,1.0
+527,T cells,1.0
+528,Myeloid cells / monocytes,1.0
+529,NK / cytotoxic lymphocytes,1.0
+530,T cells,1.0
+531,T cells,1.0
+532,Myeloid cells / monocytes,1.0
+533,T cells,1.0
+534,T cells,1.0
+535,NK / cytotoxic lymphocytes,1.0
+536,T cells,1.0
+537,NK / cytotoxic lymphocytes,1.0
+538,NK / cytotoxic lymphocytes,1.0
+539,Myeloid cells / monocytes,1.0
+540,T cells,1.0
+541,Myeloid cells / monocytes,1.0
+542,T cells,1.0
+543,T cells,0.4
+544,T cells,1.0
+545,NK / cytotoxic lymphocytes,1.0
+546,T cells,1.0
+547,Myeloid cells / monocytes,1.0
+548,NK / cytotoxic lymphocytes,1.0
+549,T cells,1.0
+550,Myeloid cells / monocytes,1.0
+551,T cells,1.0
+552,Myeloid cells / monocytes,1.0
+553,T cells,1.0
+554,T cells,1.0
+555,T cells,1.0
+556,NK / cytotoxic lymphocytes,1.0
+557,B cells,1.0
+558,T cells,1.0
+559,T cells,0.8
+560,T cells,1.0
+561,T cells,1.0
+562,Myeloid cells / monocytes,1.0
+563,T cells,1.0
+564,Myeloid cells / monocytes,1.0
+565,Myeloid cells / monocytes,1.0
+566,T cells,1.0
+567,T cells,1.0
+568,T cells,1.0
+569,Myeloid cells / monocytes,1.0
+570,T cells,1.0
+571,NK / cytotoxic lymphocytes,1.0
+572,Myeloid cells / monocytes,1.0
+573,NK / cytotoxic lymphocytes,1.0
+574,T cells,1.0
+575,NK / cytotoxic lymphocytes,1.0
+576,NK / cytotoxic lymphocytes,1.0
+577,T cells,1.0
+578,T cells,1.0
+579,B cells,0.6
+580,Myeloid cells / monocytes,1.0
+581,T cells,1.0
+582,Myeloid cells / monocytes,1.0
+583,T cells,1.0
+584,NK / cytotoxic lymphocytes,0.8
+585,NK / cytotoxic lymphocytes,0.6
+586,T cells,1.0
+587,T cells,1.0
+588,NK / cytotoxic lymphocytes,1.0
+589,NK / cytotoxic lymphocytes,1.0
+590,Myeloid cells / monocytes,1.0
+591,B cells,0.4
+592,Myeloid cells / monocytes,1.0
+593,NK / cytotoxic lymphocytes,1.0
+594,T cells,1.0
+595,T cells,1.0
+596,B cells,0.8
+597,NK / cytotoxic lymphocytes,0.8
+598,T cells,1.0
+599,T cells,1.0
+600,T cells,1.0
+601,Myeloid cells / monocytes,1.0
+602,Myeloid cells / monocytes,1.0
+603,T cells,0.8
+604,T cells,1.0
+605,Platelets,0.0
+606,NK / cytotoxic lymphocytes,1.0
+607,T cells,1.0
+608,NK / cytotoxic lymphocytes,1.0
+609,Myeloid cells / monocytes,1.0
+610,T cells,1.0
+611,NK / cytotoxic lymphocytes,1.0
+612,T cells,1.0
+613,T cells,1.0
+614,Myeloid cells / monocytes,1.0
+615,T cells,0.8
+616,T cells,1.0
+617,NK / cytotoxic lymphocytes,1.0
+618,T cells,1.0
+619,T cells,1.0
+620,T cells,1.0
+621,NK / cytotoxic lymphocytes,0.4
+622,T cells,1.0
+623,T cells,1.0
+624,Myeloid cells / monocytes,1.0
+625,T cells,1.0
+626,T cells,1.0
+627,T cells,1.0
+628,T cells,1.0
+629,Myeloid cells / monocytes,1.0
+630,B cells,0.4
+631,B cells,1.0
+632,Myeloid cells / monocytes,1.0
+633,T cells,1.0
+634,T cells,1.0
+635,T cells,1.0
+636,T cells,0.6
+637,T cells,1.0
+638,NK / cytotoxic lymphocytes,1.0
+639,NK / cytotoxic lymphocytes,1.0
+640,T cells,1.0
+641,Myeloid cells / monocytes,1.0
+642,NK / cytotoxic lymphocytes,1.0
+643,NK / cytotoxic lymphocytes,1.0
+644,Myeloid cells / monocytes,0.8
+645,T cells,1.0
+646,B cells,0.4
+647,Myeloid cells / monocytes,1.0
+648,T cells,1.0
+649,Myeloid cells / monocytes,1.0
+650,T cells,0.6
+651,T cells,0.8
+652,T cells,0.8
+653,T cells,1.0
+654,T cells,1.0
+655,T cells,1.0
+656,T cells,1.0
+657,Myeloid cells / monocytes,1.0
+658,T cells,1.0
+659,T cells,0.8
+660,T cells,1.0
+661,T cells,1.0
+662,NK / cytotoxic lymphocytes,0.6
+663,NK / cytotoxic lymphocytes,1.0
+664,T cells,0.4
+665,B cells,0.6
+666,T cells,1.0
+667,NK / cytotoxic lymphocytes,0.0
+668,NK / cytotoxic lymphocytes,1.0
+669,B cells,0.8
+670,T cells,1.0
+671,Myeloid cells / monocytes,1.0
+672,T cells,1.0
+673,T cells,1.0
+674,T cells,1.0
+675,T cells,1.0
+676,T cells,1.0
+677,Myeloid cells / monocytes,1.0
+678,B cells,0.2
+679,T cells,1.0
+680,T cells,1.0
+681,NK / cytotoxic lymphocytes,0.6
+682,Myeloid cells / monocytes,1.0
+683,T cells,1.0
+684,T cells,1.0
+685,T cells,1.0
+686,T cells,1.0
+687,T cells,1.0
+688,Myeloid cells / monocytes,1.0
+689,T cells,1.0
+690,T cells,1.0
+691,NK / cytotoxic lymphocytes,1.0
+692,Myeloid cells / monocytes,1.0
+693,T cells,1.0
+694,T cells,1.0
+695,T cells,0.6
+696,T cells,1.0
+697,T cells,1.0
+698,NK / cytotoxic lymphocytes,1.0
+699,T cells,1.0
+700,NK / cytotoxic lymphocytes,0.6
+701,T cells,1.0
+702,T cells,0.8
+703,NK / cytotoxic lymphocytes,1.0
+704,T cells,1.0
+705,T cells,0.4
+706,T cells,1.0
+707,NK / cytotoxic lymphocytes,1.0
+708,NK / cytotoxic lymphocytes,1.0
+709,NK / cytotoxic lymphocytes,1.0
+710,T cells,1.0
+711,T cells,1.0
+712,T cells,0.8
+713,NK / cytotoxic lymphocytes,0.8
+714,T cells,1.0
+715,B cells,0.6
+716,NK / cytotoxic lymphocytes,0.4
+717,T cells,1.0
+718,NK / cytotoxic lymphocytes,0.4
+719,NK / cytotoxic lymphocytes,1.0
+720,T cells,1.0
+721,Myeloid cells / monocytes,1.0
+722,T cells,1.0
+723,T cells,1.0
+724,T cells,1.0
+725,T cells,1.0
+726,T cells,1.0
+727,NK / cytotoxic lymphocytes,1.0
+728,Myeloid cells / monocytes,1.0
+729,Myeloid cells / monocytes,1.0
+730,T cells,1.0
+731,T cells,1.0
+732,T cells,1.0
+733,Myeloid cells / monocytes,1.0
+734,T cells,1.0
+735,NK / cytotoxic lymphocytes,1.0
+736,NK / cytotoxic lymphocytes,1.0
+737,T cells,1.0
+738,NK / cytotoxic lymphocytes,1.0
+739,T cells,1.0
+740,T cells,0.8
+741,T cells,1.0
+742,Myeloid cells / monocytes,1.0
+743,T cells,1.0
+744,T cells,1.0
+745,Myeloid cells / monocytes,1.0
+746,B cells,0.6
+747,T cells,1.0
+748,T cells,1.0
+749,T cells,1.0
+750,NK / cytotoxic lymphocytes,0.8
+751,NK / cytotoxic lymphocytes,0.8
+752,T cells,1.0
+753,T cells,1.0
+754,T cells,1.0
+755,T cells,0.4
+756,T cells,1.0
+757,T cells,0.8
+758,Myeloid cells / monocytes,1.0
+759,T cells,1.0
+760,T cells,1.0
+761,Myeloid cells / monocytes,1.0
+762,T cells,1.0
+763,NK / cytotoxic lymphocytes,1.0
+764,T cells,1.0
+765,T cells,1.0
+766,Myeloid cells / monocytes,1.0
+767,Myeloid cells / monocytes,1.0
+768,NK / cytotoxic lymphocytes,0.8
+769,T cells,1.0
+770,NK / cytotoxic lymphocytes,0.2
+771,NK / cytotoxic lymphocytes,1.0
+772,T cells,1.0
+773,Myeloid cells / monocytes,1.0
+774,T cells,1.0
+775,NK / cytotoxic lymphocytes,0.0
+776,Myeloid cells / monocytes,1.0
+777,T cells,1.0
+778,T cells,1.0
+779,NK / cytotoxic lymphocytes,1.0
+780,NK / cytotoxic lymphocytes,1.0
+781,NK / cytotoxic lymphocytes,1.0
+782,T cells,1.0
+783,NK / cytotoxic lymphocytes,1.0
+784,T cells,1.0
+785,T cells,0.8
+786,T cells,1.0
+787,Myeloid cells / monocytes,0.8
+788,NK / cytotoxic lymphocytes,1.0
+789,NK / cytotoxic lymphocytes,1.0
+790,T cells,1.0
+791,T cells,1.0
+792,T cells,1.0
+793,NK / cytotoxic lymphocytes,1.0
+794,T cells,1.0
+795,T cells,1.0
+796,Myeloid cells / monocytes,1.0
+797,Myeloid cells / monocytes,1.0
+798,T cells,1.0
+799,T cells,1.0
+800,T cells,1.0
+801,B cells,0.6
+802,Myeloid cells / monocytes,1.0
+803,T cells,1.0
+804,NK / cytotoxic lymphocytes,1.0
+805,Myeloid cells / monocytes,1.0
+806,Myeloid cells / monocytes,1.0
+807,T cells,1.0
+808,T cells,1.0
+809,Myeloid cells / monocytes,1.0
+810,T cells,1.0
+811,T cells,1.0
+812,NK / cytotoxic lymphocytes,1.0
+813,T cells,1.0
+814,T cells,1.0
+815,NK / cytotoxic lymphocytes,0.6
+816,Myeloid cells / monocytes,1.0
+817,NK / cytotoxic lymphocytes,1.0
+818,NK / cytotoxic lymphocytes,0.0
+819,NK / cytotoxic lymphocytes,1.0
+820,T cells,0.8
+821,T cells,1.0
+822,NK / cytotoxic lymphocytes,1.0
+823,B cells,0.6
+824,Myeloid cells / monocytes,1.0
+825,Myeloid cells / monocytes,1.0
+826,Myeloid cells / monocytes,1.0
+827,T cells,1.0
+828,T cells,1.0
+829,T cells,1.0
+830,NK / cytotoxic lymphocytes,0.6
+831,NK / cytotoxic lymphocytes,0.8
+832,Myeloid cells / monocytes,1.0
+833,T cells,0.8
+834,T cells,1.0
+835,T cells,1.0
+836,T cells,1.0
+837,T cells,0.8
+838,T cells,1.0
+839,NK / cytotoxic lymphocytes,1.0
+840,T cells,1.0
+841,Myeloid cells / monocytes,1.0
+842,B cells,1.0
+843,NK / cytotoxic lymphocytes,0.8
+844,T cells,1.0
+845,T cells,1.0
+846,NK / cytotoxic lymphocytes,0.8
+847,T cells,1.0
+848,NK / cytotoxic lymphocytes,1.0
+849,T cells,0.8
+850,T cells,1.0
+851,Myeloid cells / monocytes,1.0
+852,NK / cytotoxic lymphocytes,0.6
+853,NK / cytotoxic lymphocytes,0.2
+854,NK / cytotoxic lymphocytes,1.0
+855,B cells,0.8
+856,T cells,1.0
+857,Myeloid cells / monocytes,1.0
+858,B cells,0.2
+859,Myeloid cells / monocytes,1.0
+860,T cells,1.0
+861,Myeloid cells / monocytes,1.0
+862,T cells,1.0
+863,T cells,1.0
+864,NK / cytotoxic lymphocytes,1.0
+865,Myeloid cells / monocytes,1.0
+866,Myeloid cells / monocytes,1.0
+867,B cells,1.0
+868,B cells,0.0
+869,T cells,0.8
+870,Myeloid cells / monocytes,1.0
+871,T cells,1.0
+872,T cells,1.0
+873,T cells,1.0
+874,Myeloid cells / monocytes,1.0
+875,Myeloid cells / monocytes,1.0
+876,T cells,1.0
+877,B cells,1.0
+878,T cells,1.0
+879,T cells,1.0
+880,T cells,1.0
+881,T cells,1.0
+882,Myeloid cells / monocytes,1.0
+883,NK / cytotoxic lymphocytes,0.8
+884,T cells,1.0
+885,Myeloid cells / monocytes,1.0
+886,Myeloid cells / monocytes,1.0
+887,T cells,1.0
+888,T cells,1.0
+889,NK / cytotoxic lymphocytes,0.6
+890,T cells,0.4
+891,T cells,1.0
+892,NK / cytotoxic lymphocytes,1.0
+893,B cells,0.8
+894,T cells,1.0
+895,T cells,0.8
+896,NK / cytotoxic lymphocytes,0.8
+897,Myeloid cells / monocytes,1.0
+898,T cells,1.0
+899,T cells,1.0
+900,Myeloid cells / monocytes,1.0
+901,T cells,1.0
+902,NK / cytotoxic lymphocytes,0.6
+903,T cells,1.0
+904,B cells,1.0
+905,Myeloid cells / monocytes,1.0
+906,NK / cytotoxic lymphocytes,0.8
+907,NK / cytotoxic lymphocytes,1.0
+908,NK / cytotoxic lymphocytes,1.0
+909,NK / cytotoxic lymphocytes,1.0
+910,T cells,1.0
+911,T cells,1.0
+912,T cells,0.8
+913,T cells,1.0
+914,NK / cytotoxic lymphocytes,0.8
+915,NK / cytotoxic lymphocytes,1.0
+916,Myeloid cells / monocytes,1.0
+917,T cells,0.2
+918,T cells,1.0
+919,T cells,0.6
+920,B cells,1.0
+921,T cells,1.0
+922,Myeloid cells / monocytes,1.0
+923,NK / cytotoxic lymphocytes,1.0
+924,T cells,1.0
+925,Myeloid cells / monocytes,1.0
+926,T cells,1.0
+927,Myeloid cells / monocytes,1.0
+928,T cells,1.0
+929,T cells,0.6
+930,NK / cytotoxic lymphocytes,1.0
+931,T cells,0.0
+932,Myeloid cells / monocytes,1.0
+933,NK / cytotoxic lymphocytes,0.8
+934,T cells,1.0
+935,T cells,1.0
+936,NK / cytotoxic lymphocytes,1.0
+937,T cells,0.8
+938,Antigen-presenting cells; unresolved,0.0
+939,T cells,0.8
+940,Myeloid cells / monocytes,1.0
+941,T cells,1.0
+942,T cells,0.8
+943,T cells,1.0
+944,T cells,1.0
+945,NK / cytotoxic lymphocytes,0.8
+946,T cells,1.0
+947,NK / cytotoxic lymphocytes,0.6
+948,NK / cytotoxic lymphocytes,0.8
+949,NK / cytotoxic lymphocytes,0.6
+950,NK / cytotoxic lymphocytes,0.6
+951,Myeloid cells / monocytes,1.0
+952,T cells,1.0
+953,T cells,1.0
+954,T cells,1.0
+955,T cells,1.0
+956,T cells,1.0
+957,T cells,1.0
+958,Myeloid cells / monocytes,1.0
+959,T cells,1.0
+960,T cells,1.0
+961,T cells,1.0
+962,NK / cytotoxic lymphocytes,1.0
+963,NK / cytotoxic lymphocytes,0.8
+964,Myeloid cells / monocytes,1.0
+965,T cells,1.0
+966,T cells,1.0
+967,T cells,0.4
+968,T cells,1.0
+969,T cells,0.2
+970,T cells,1.0
+971,T cells,0.6
+972,NK / cytotoxic lymphocytes,0.6
+973,T cells,1.0
+974,T cells,0.8
+975,T cells,1.0
+976,B cells,1.0
+977,T cells,1.0
+978,NK / cytotoxic lymphocytes,1.0
+979,T cells,1.0
+980,T cells,1.0
+981,NK / cytotoxic lymphocytes,1.0
+982,T cells,1.0
+983,T cells,0.4
+984,T cells,1.0
+985,B cells,0.4
+986,T cells,1.0
+987,NK / cytotoxic lymphocytes,0.8
+988,T cells,1.0
+989,NK / cytotoxic lymphocytes,1.0
+990,B cells,1.0
+991,NK / cytotoxic lymphocytes,0.0
+992,Myeloid cells / monocytes,1.0
+993,Myeloid cells / monocytes,1.0
+994,T cells,0.0
+995,NK / cytotoxic lymphocytes,1.0
+996,T cells,1.0
+997,NK / cytotoxic lymphocytes,0.4
+998,T cells,1.0
+999,B cells,0.8
+1000,T cells,1.0
+1001,T cells,1.0
+1002,T cells,1.0
+1003,T cells,0.6
+1004,Myeloid cells / monocytes,1.0
+1005,Myeloid cells / monocytes,1.0
+1006,T cells,1.0
+1007,T cells,1.0
+1008,T cells,1.0
+1009,T cells,1.0
+1010,T cells,1.0
+1011,T cells,1.0
+1012,T cells,1.0
+1013,T cells,1.0
+1014,T cells,1.0
+1015,T cells,1.0
+1016,NK / cytotoxic lymphocytes,1.0
+1017,T cells,1.0
+1018,T cells,1.0
+1019,T cells,1.0
+1020,T cells,1.0
+1021,T cells,1.0
+1022,NK / cytotoxic lymphocytes,0.4
+1023,NK / cytotoxic lymphocytes,0.8
+1024,T cells,1.0
+1025,T cells,1.0
+1026,T cells,1.0
+1027,T cells,1.0
+1028,NK / cytotoxic lymphocytes,1.0
+1029,NK / cytotoxic lymphocytes,1.0
+1030,T cells,1.0
+1031,NK / cytotoxic lymphocytes,0.4
+1032,T cells,1.0
+1033,T cells,1.0
+1034,Myeloid cells / monocytes,1.0
+1035,Myeloid cells / monocytes,0.8
+1036,T cells,1.0
+1037,NK / cytotoxic lymphocytes,0.8
+1038,NK / cytotoxic lymphocytes,1.0
+1039,T cells,1.0
+1040,NK / cytotoxic lymphocytes,1.0
+1041,T cells,1.0
+1042,T cells,1.0
+1043,T cells,1.0
+1044,Myeloid cells / monocytes,1.0
+1045,B cells,1.0
+1046,Myeloid cells / monocytes,1.0
+1047,T cells,0.8
+1048,NK / cytotoxic lymphocytes,1.0
+1049,NK / cytotoxic lymphocytes,1.0
+1050,T cells,1.0
+1051,T cells,1.0
+1052,NK / cytotoxic lymphocytes,1.0
+1053,T cells,1.0
+1054,NK / cytotoxic lymphocytes,1.0
+1055,NK / cytotoxic lymphocytes,0.0
+1056,NK / cytotoxic lymphocytes,0.4
+1057,NK / cytotoxic lymphocytes,1.0
+1058,NK / cytotoxic lymphocytes,1.0
+1059,T cells,0.6
+1060,T cells,1.0
+1061,T cells,1.0
+1062,NK / cytotoxic lymphocytes,1.0
+1063,T cells,1.0
+1064,T cells,1.0
+1065,NK / cytotoxic lymphocytes,1.0
+1066,T cells,1.0
+1067,NK / cytotoxic lymphocytes,0.8
+1068,T cells,0.2
+1069,T cells,0.6
+1070,T cells,1.0
+1071,T cells,1.0
+1072,B cells,1.0
+1073,T cells,1.0
+1074,NK / cytotoxic lymphocytes,0.8
+1075,Myeloid cells / monocytes,1.0
+1076,NK / cytotoxic lymphocytes,1.0
+1077,T cells,1.0
+1078,T cells,0.8
+1079,T cells,1.0
+1080,NK / cytotoxic lymphocytes,0.4
+1081,T cells,0.6
+1082,T cells,1.0
+1083,Myeloid cells / monocytes,1.0
+1084,T cells,1.0
+1085,T cells,1.0
+1086,NK / cytotoxic lymphocytes,0.0
+1087,T cells,0.6
+1088,T cells,1.0
+1089,T cells,1.0
+1090,Myeloid cells / monocytes,1.0
+1091,Myeloid cells / monocytes,1.0
+1092,T cells,1.0
+1093,NK / cytotoxic lymphocytes,1.0
+1094,NK / cytotoxic lymphocytes,1.0
+1095,T cells,0.8
+1096,T cells,1.0
+1097,T cells,1.0
+1098,T cells,1.0
+1099,Myeloid cells / monocytes,1.0
+1100,T cells,1.0
+1101,NK / cytotoxic lymphocytes,0.4
+1102,T cells,1.0
+1103,T cells,1.0
+1104,T cells,1.0
+1105,T cells,0.4
+1106,Myeloid cells / monocytes,1.0
+1107,NK / cytotoxic lymphocytes,1.0
+1108,T cells,1.0
+1109,T cells,1.0
+1110,Platelets,1.0
+1111,T cells,1.0
+1112,T cells,1.0
+1113,T cells,1.0
+1114,T cells,1.0
+1115,T cells,1.0
+1116,Myeloid cells / monocytes,0.8
+1117,T cells,1.0
+1118,T cells,1.0
+1119,Myeloid cells / monocytes,1.0
+1120,Myeloid cells / monocytes,1.0
+1121,T cells,0.6
+1122,T cells,1.0
+1123,NK / cytotoxic lymphocytes,0.6
+1124,T cells,0.8
+1125,B cells,1.0
+1126,NK / cytotoxic lymphocytes,1.0
+1127,T cells,0.8
+1128,NK / cytotoxic lymphocytes,1.0
+1129,B cells,0.6
+1130,T cells,1.0
+1131,Myeloid cells / monocytes,1.0
+1132,Myeloid cells / monocytes,1.0
+1133,T cells,1.0
+1134,T cells,1.0
+1135,NK / cytotoxic lymphocytes,0.0
+1136,T cells,1.0
+1137,T cells,1.0
+1138,T cells,0.0
+1139,NK / cytotoxic lymphocytes,1.0
+1140,T cells,1.0
+1141,Myeloid cells / monocytes,1.0
+1142,T cells,1.0
+1143,NK / cytotoxic lymphocytes,1.0
+1144,NK / cytotoxic lymphocytes,1.0
+1145,T cells,1.0
+1146,B cells,1.0
+1147,T cells,1.0
+1148,T cells,1.0
+1149,T cells,1.0
+1150,T cells,1.0
+1151,T cells,1.0
+1152,NK / cytotoxic lymphocytes,1.0
+1153,T cells,0.8
+1154,NK / cytotoxic lymphocytes,1.0
+1155,NK / cytotoxic lymphocytes,0.0
+1156,T cells,1.0
+1157,NK / cytotoxic lymphocytes,1.0
+1158,T cells,0.8
+1159,NK / cytotoxic lymphocytes,0.8
+1160,T cells,1.0
+1161,B cells,0.4
+1162,T cells,1.0
+1163,Myeloid cells / monocytes,1.0
+1164,NK / cytotoxic lymphocytes,1.0
+1165,T cells,1.0
+1166,T cells,1.0
+1167,T cells,1.0
+1168,NK / cytotoxic lymphocytes,1.0
+1169,T cells,1.0
+1170,T cells,1.0
+1171,T cells,1.0
+1172,T cells,0.4
+1173,T cells,0.6
+1174,T cells,1.0
+1175,T cells,1.0
+1176,T cells,1.0
+1177,T cells,1.0
+1178,NK / cytotoxic lymphocytes,1.0
+1179,T cells,0.6
+1180,NK / cytotoxic lymphocytes,1.0
+1181,T cells,1.0
+1182,T cells,0.6
+1183,T cells,1.0
+1184,T cells,1.0
+1185,T cells,0.8
+1186,T cells,1.0
+1187,NK / cytotoxic lymphocytes,0.6
+1188,T cells,0.2
+1189,NK / cytotoxic lymphocytes,1.0
+1190,NK / cytotoxic lymphocytes,0.0
+1191,T cells,1.0
+1192,T cells,1.0
+1193,T cells,1.0
+1194,T cells,1.0
+1195,NK / cytotoxic lymphocytes,1.0
+1196,T cells,1.0
+1197,B cells,1.0
+1198,Myeloid cells / monocytes,1.0
+1199,NK / cytotoxic lymphocytes,1.0
+1200,T cells,1.0
+1201,NK / cytotoxic lymphocytes,1.0
+1202,T cells,1.0
+1203,T cells,0.6
+1204,T cells,1.0
+1205,NK / cytotoxic lymphocytes,1.0
+1206,B cells,0.2
+1207,T cells,1.0
+1208,T cells,1.0
+1209,T cells,0.6
+1210,NK / cytotoxic lymphocytes,1.0
+1211,NK / cytotoxic lymphocytes,0.8
+1212,Myeloid cells / monocytes,1.0
+1213,B cells,1.0
+1214,T cells,0.8
+1215,NK / cytotoxic lymphocytes,0.4
+1216,NK / cytotoxic lymphocytes,1.0
+1217,B cells,1.0
+1218,T cells,1.0
+1219,NK / cytotoxic lymphocytes,1.0
+1220,T cells,1.0
+1221,T cells,1.0
+1222,T cells,1.0
+1223,T cells,1.0
+1224,NK / cytotoxic lymphocytes,1.0
+1225,T cells,1.0
+1226,T cells,1.0
+1227,T cells,1.0
+1228,B cells,1.0
+1229,T cells,1.0
+1230,Myeloid cells / monocytes,1.0
+1231,Myeloid cells / monocytes,1.0
+1232,T cells,1.0
+1233,Myeloid cells / monocytes,1.0
+1234,T cells,0.4
+1235,Myeloid cells / monocytes,1.0
+1236,T cells,1.0
+1237,T cells,1.0
+1238,NK / cytotoxic lymphocytes,0.4
+1239,T cells,1.0
+1240,Myeloid cells / monocytes,1.0
+1241,T cells,1.0
+1242,T cells,1.0
+1243,NK / cytotoxic lymphocytes,0.8
+1244,T cells,1.0
+1245,NK / cytotoxic lymphocytes,0.8
+1246,NK / cytotoxic lymphocytes,0.6
+1247,T cells,0.8
+1248,Myeloid cells / monocytes,1.0
+1249,NK / cytotoxic lymphocytes,1.0
+1250,NK / cytotoxic lymphocytes,0.4
+1251,Myeloid cells / monocytes,1.0
+1252,Myeloid cells / monocytes,1.0
+1253,Myeloid cells / monocytes,1.0
+1254,Myeloid cells / monocytes,1.0
+1255,T cells,0.8
+1256,NK / cytotoxic lymphocytes,1.0
+1257,Myeloid cells / monocytes,1.0
+1258,T cells,1.0
+1259,B cells,0.4
+1260,T cells,1.0
+1261,T cells,1.0
+1262,T cells,1.0
+1263,B cells,0.8
+1264,NK / cytotoxic lymphocytes,0.6
+1265,B cells,1.0
+1266,T cells,1.0
+1267,T cells,1.0
+1268,NK / cytotoxic lymphocytes,0.8
+1269,NK / cytotoxic lymphocytes,1.0
+1270,NK / cytotoxic lymphocytes,1.0
+1271,NK / cytotoxic lymphocytes,1.0
+1272,T cells,1.0
+1273,Myeloid cells / monocytes,1.0
+1274,Myeloid cells / monocytes,1.0
+1275,T cells,1.0
+1276,B cells,0.6
+1277,T cells,1.0
+1278,T cells,0.6
+1279,T cells,1.0
+1280,T cells,1.0
+1281,Myeloid cells / monocytes,1.0
+1282,T cells,1.0
+1283,NK / cytotoxic lymphocytes,1.0
+1284,B cells,0.6
+1285,NK / cytotoxic lymphocytes,0.4
+1286,T cells,1.0
+1287,NK / cytotoxic lymphocytes,1.0
+1288,T cells,0.8
+1289,T cells,1.0
+1290,T cells,1.0
+1291,T cells,1.0
+1292,NK / cytotoxic lymphocytes,0.0
+1293,NK / cytotoxic lymphocytes,0.8
+1294,NK / cytotoxic lymphocytes,0.4
+1295,NK / cytotoxic lymphocytes,0.6
+1296,T cells,0.8
+1297,T cells,1.0
+1298,T cells,1.0
+1299,NK / cytotoxic lymphocytes,0.6
+1300,T cells,0.4
+1301,Myeloid cells / monocytes,1.0
+1302,T cells,1.0
+1303,T cells,1.0
+1304,T cells,0.8
+1305,T cells,1.0
+1306,NK / cytotoxic lymphocytes,0.6
+1307,T cells,0.6
+1308,B cells,1.0
+1309,T cells,0.6
+1310,NK / cytotoxic lymphocytes,1.0
+1311,T cells,1.0
+1312,NK / cytotoxic lymphocytes,0.2
+1313,T cells,0.2
+1314,T cells,1.0
+1315,NK / cytotoxic lymphocytes,1.0
+1316,NK / cytotoxic lymphocytes,0.4
+1317,NK / cytotoxic lymphocytes,1.0
+1318,T cells,1.0
+1319,NK / cytotoxic lymphocytes,1.0
+1320,T cells,1.0
+1321,T cells,1.0
+1322,T cells,0.8
+1323,T cells,1.0
+1324,Myeloid cells / monocytes,1.0
+1325,T cells,0.8
+1326,NK / cytotoxic lymphocytes,1.0
+1327,B cells,0.8
+1328,T cells,1.0
+1329,T cells,1.0
+1330,B cells,1.0
+1331,B cells,0.8
+1332,T cells,1.0
+1333,T cells,1.0
+1334,T cells,0.8
+1335,T cells,1.0
+1336,T cells,1.0
+1337,NK / cytotoxic lymphocytes,1.0
+1338,NK / cytotoxic lymphocytes,0.8
+1339,NK / cytotoxic lymphocytes,0.6
+1340,T cells,1.0
+1341,T cells,1.0
+1342,T cells,0.6
+1343,NK / cytotoxic lymphocytes,1.0
+1344,Myeloid cells / monocytes,1.0
+1345,Myeloid cells / monocytes,1.0
+1346,Myeloid cells / monocytes,1.0
+1347,T cells,1.0
+1348,T cells,1.0
+1349,NK / cytotoxic lymphocytes,0.6
+1350,T cells,0.8
+1351,T cells,1.0
+1352,NK / cytotoxic lymphocytes,1.0
+1353,T cells,1.0
+1354,T cells,1.0
+1355,NK / cytotoxic lymphocytes,1.0
+1356,B cells,1.0
+1357,NK / cytotoxic lymphocytes,1.0
+1358,B cells,1.0
+1359,NK / cytotoxic lymphocytes,1.0
+1360,T cells,1.0
+1361,B cells,1.0
+1362,T cells,0.8
+1363,T cells,1.0
+1364,NK / cytotoxic lymphocytes,1.0
+1365,T cells,1.0
+1366,NK / cytotoxic lymphocytes,1.0
+1367,T cells,1.0
+1368,T cells,0.4
+1369,T cells,1.0
+1370,T cells,1.0
+1371,NK / cytotoxic lymphocytes,1.0
+1372,T cells,1.0
+1373,T cells,1.0
+1374,NK / cytotoxic lymphocytes,1.0
+1375,T cells,1.0
+1376,NK / cytotoxic lymphocytes,0.6
+1377,Myeloid cells / monocytes,1.0
+1378,T cells,0.8
+1379,B cells,0.8
+1380,T cells,1.0
+1381,T cells,1.0
+1382,T cells,0.6
+1383,T cells,1.0
+1384,B cells,1.0
+1385,NK / cytotoxic lymphocytes,0.8
+1386,Myeloid cells / monocytes,1.0
+1387,T cells,1.0
+1388,T cells,1.0
+1389,T cells,1.0
+1390,Myeloid cells / monocytes,1.0
+1391,NK / cytotoxic lymphocytes,0.8
+1392,T cells,1.0
+1393,Myeloid cells / monocytes,1.0
+1394,B cells,1.0
+1395,NK / cytotoxic lymphocytes,0.6
+1396,NK / cytotoxic lymphocytes,1.0
+1397,B cells,1.0
+1398,Myeloid cells / monocytes,1.0
+1399,T cells,0.4
+1400,NK / cytotoxic lymphocytes,0.4
+1401,Myeloid cells / monocytes,1.0
+1402,NK / cytotoxic lymphocytes,0.8
+1403,T cells,1.0
+1404,T cells,0.8
+1405,Myeloid cells / monocytes,1.0
+1406,B cells,0.8
+1407,T cells,1.0
+1408,T cells,1.0
+1409,Myeloid cells / monocytes,1.0
+1410,T cells,1.0
+1411,T cells,1.0
+1412,T cells,1.0
+1413,T cells,1.0
+1414,Myeloid cells / monocytes,1.0
+1415,T cells,1.0
+1416,T cells,1.0
+1417,Myeloid cells / monocytes,1.0
+1418,T cells,1.0
+1419,T cells,1.0
+1420,T cells,1.0
+1421,T cells,1.0
+1422,NK / cytotoxic lymphocytes,1.0
+1423,T cells,1.0
+1424,T cells,0.6
+1425,T cells,1.0
+1426,T cells,1.0
+1427,NK / cytotoxic lymphocytes,1.0
+1428,T cells,1.0
+1429,T cells,1.0
+1430,Myeloid cells / monocytes,1.0
+1431,T cells,0.8
+1432,T cells,1.0
+1433,T cells,1.0
+1434,NK / cytotoxic lymphocytes,0.6
+1435,Myeloid cells / monocytes,1.0
+1436,B cells,0.6
+1437,NK / cytotoxic lymphocytes,1.0
+1438,T cells,1.0
+1439,T cells,0.2
+1440,T cells,1.0
+1441,T cells,0.6
+1442,T cells,1.0
+1443,NK / cytotoxic lymphocytes,1.0
+1444,T cells,1.0
+1445,NK / cytotoxic lymphocytes,0.2
+1446,B cells,1.0
+1447,T cells,1.0
+1448,T cells,1.0
+1449,NK / cytotoxic lymphocytes,0.2
+1450,Myeloid cells / monocytes,1.0
+1451,T cells,1.0
+1452,T cells,1.0
+1453,T cells,1.0
+1454,NK / cytotoxic lymphocytes,1.0
+1455,T cells,1.0
+1456,T cells,1.0
+1457,B cells,0.8
+1458,Myeloid cells / monocytes,1.0
+1459,B cells,1.0
+1460,T cells,0.6
+1461,NK / cytotoxic lymphocytes,0.0
+1462,Myeloid cells / monocytes,1.0
+1463,Myeloid cells / monocytes,1.0
+1464,T cells,1.0
+1465,Myeloid cells / monocytes,1.0
+1466,T cells,1.0
+1467,T cells,1.0
+1468,T cells,1.0
+1469,NK / cytotoxic lymphocytes,1.0
+1470,T cells,1.0
+1471,B cells,1.0
+1472,T cells,0.4
+1473,B cells,0.4
+1474,T cells,0.2
+1475,T cells,1.0
+1476,T cells,1.0
+1477,NK / cytotoxic lymphocytes,0.8
+1478,T cells,1.0
+1479,T cells,1.0
+1480,T cells,0.4
+1481,T cells,1.0
+1482,B cells,1.0
+1483,T cells,1.0
+1484,T cells,1.0
+1485,T cells,1.0
+1486,Myeloid cells / monocytes,1.0
+1487,T cells,1.0
+1488,T cells,1.0
+1489,T cells,1.0
+1490,T cells,1.0
+1491,NK / cytotoxic lymphocytes,1.0
+1492,T cells,1.0
+1493,T cells,1.0
+1494,NK / cytotoxic lymphocytes,0.8
+1495,T cells,1.0
+1496,NK / cytotoxic lymphocytes,1.0
+1497,T cells,0.6
+1498,T cells,1.0
+1499,T cells,1.0
+1500,NK / cytotoxic lymphocytes,1.0
+1501,T cells,1.0
+1502,NK / cytotoxic lymphocytes,1.0
+1503,Myeloid cells / monocytes,1.0
+1504,NK / cytotoxic lymphocytes,0.6
+1505,T cells,1.0
+1506,T cells,1.0
+1507,NK / cytotoxic lymphocytes,0.4
+1508,T cells,0.4
+1509,T cells,0.4
+1510,T cells,1.0
+1511,Myeloid cells / monocytes,1.0
+1512,NK / cytotoxic lymphocytes,1.0
+1513,Myeloid cells / monocytes,1.0
+1514,NK / cytotoxic lymphocytes,1.0
+1515,T cells,0.8
+1516,T cells,0.8
+1517,Myeloid cells / monocytes,1.0
+1518,NK / cytotoxic lymphocytes,0.6
+1519,T cells,1.0
+1520,NK / cytotoxic lymphocytes,1.0
+1521,T cells,0.8
+1522,T cells,1.0
+1523,Myeloid cells / monocytes,1.0
+1524,T cells,1.0
+1525,T cells,1.0
+1526,B cells,1.0
+1527,T cells,1.0
+1528,NK / cytotoxic lymphocytes,0.4
+1529,NK / cytotoxic lymphocytes,0.2
+1530,NK / cytotoxic lymphocytes,0.2
+1531,Myeloid cells / monocytes,1.0
+1532,Myeloid cells / monocytes,1.0
+1533,T cells,1.0
+1534,B cells,1.0
+1535,T cells,1.0
+1536,T cells,1.0
+1537,T cells,1.0
+1538,NK / cytotoxic lymphocytes,1.0
+1539,T cells,1.0
+1540,NK / cytotoxic lymphocytes,1.0
+1541,Myeloid cells / monocytes,1.0
+1542,T cells,1.0
+1543,T cells,1.0
+1544,T cells,0.8
+1545,T cells,1.0
+1546,B cells,1.0
+1547,T cells,1.0
+1548,T cells,0.8
+1549,NK / cytotoxic lymphocytes,0.6
+1550,T cells,1.0
+1551,Myeloid cells / monocytes,1.0
+1552,NK / cytotoxic lymphocytes,0.6
+1553,T cells,1.0
+1554,NK / cytotoxic lymphocytes,0.0
+1555,Myeloid cells / monocytes,1.0
+1556,T cells,1.0
+1557,Myeloid cells / monocytes,1.0
+1558,T cells,1.0
+1559,NK / cytotoxic lymphocytes,1.0
+1560,T cells,1.0
+1561,B cells,0.2
+1562,T cells,1.0
+1563,NK / cytotoxic lymphocytes,1.0
+1564,Myeloid cells / monocytes,1.0
+1565,NK / cytotoxic lymphocytes,1.0
+1566,NK / cytotoxic lymphocytes,1.0
+1567,Myeloid cells / monocytes,1.0
+1568,NK / cytotoxic lymphocytes,1.0
+1569,T cells,1.0
+1570,T cells,1.0
+1571,NK / cytotoxic lymphocytes,0.2
+1572,T cells,1.0
+1573,B cells,1.0
+1574,B cells,1.0
+1575,T cells,1.0
+1576,T cells,1.0
+1577,T cells,1.0
+1578,T cells,0.6
+1579,T cells,1.0
+1580,NK / cytotoxic lymphocytes,0.8
+1581,B cells,0.8
+1582,T cells,1.0
+1583,T cells,1.0
+1584,NK / cytotoxic lymphocytes,1.0
+1585,Myeloid cells / monocytes,1.0
+1586,B cells,1.0
+1587,B cells,0.8
+1588,NK / cytotoxic lymphocytes,0.4
+1589,T cells,1.0
+1590,B cells,1.0
+1591,Myeloid cells / monocytes,1.0
+1592,NK / cytotoxic lymphocytes,1.0
+1593,Myeloid cells / monocytes,1.0
+1594,NK / cytotoxic lymphocytes,0.0
+1595,T cells,1.0
+1596,T cells,1.0
+1597,Myeloid cells / monocytes,1.0
+1598,B cells,0.6
+1599,NK / cytotoxic lymphocytes,0.6
+1600,T cells,1.0
+1601,T cells,1.0
+1602,T cells,1.0
+1603,T cells,1.0
+1604,T cells,1.0
+1605,T cells,0.6
+1606,T cells,1.0
+1607,T cells,1.0
+1608,T cells,1.0
+1609,NK / cytotoxic lymphocytes,0.4
+1610,T cells,1.0
+1611,T cells,1.0
+1612,T cells,0.0
+1613,T cells,0.8
+1614,T cells,0.4
+1615,T cells,0.6
+1616,T cells,1.0
+1617,NK / cytotoxic lymphocytes,0.4
+1618,T cells,1.0
+1619,NK / cytotoxic lymphocytes,1.0
+1620,Myeloid cells / monocytes,1.0
+1621,B cells,1.0
+1622,NK / cytotoxic lymphocytes,0.6
+1623,NK / cytotoxic lymphocytes,1.0
+1624,T cells,1.0
+1625,Myeloid cells / monocytes,1.0
+1626,T cells,1.0
+1627,B cells,1.0
+1628,T cells,0.6
+1629,T cells,1.0
+1630,T cells,0.6
+1631,T cells,1.0
+1632,B cells,1.0
+1633,T cells,1.0
+1634,B cells,1.0
+1635,T cells,1.0
+1636,T cells,1.0
+1637,NK / cytotoxic lymphocytes,0.8
+1638,B cells,1.0
+1639,T cells,0.2
+1640,B cells,1.0
+1641,T cells,0.2
+1642,T cells,1.0
+1643,T cells,1.0
+1644,NK / cytotoxic lymphocytes,1.0
+1645,T cells,1.0
+1646,B cells,1.0
+1647,NK / cytotoxic lymphocytes,1.0
+1648,T cells,1.0
+1649,T cells,1.0
+1650,NK / cytotoxic lymphocytes,1.0
+1651,T cells,1.0
+1652,T cells,1.0
+1653,T cells,0.6
+1654,B cells,0.8
+1655,Myeloid cells / monocytes,1.0
+1656,T cells,0.8
+1657,T cells,1.0
+1658,Myeloid cells / monocytes,1.0
+1659,T cells,1.0
+1660,NK / cytotoxic lymphocytes,0.4
+1661,NK / cytotoxic lymphocytes,1.0
+1662,B cells,0.6
+1663,T cells,1.0
+1664,Myeloid cells / monocytes,1.0
+1665,Myeloid cells / monocytes,0.8
+1666,T cells,1.0
+1667,T cells,1.0
+1668,Myeloid cells / monocytes,1.0
+1669,Myeloid cells / monocytes,1.0
+1670,T cells,0.8
+1671,T cells,1.0
+1672,Myeloid cells / monocytes,1.0
+1673,T cells,0.0
+1674,T cells,1.0
+1675,Myeloid cells / monocytes,1.0
+1676,Myeloid cells / monocytes,1.0
+1677,T cells,1.0
+1678,T cells,1.0
+1679,T cells,1.0
+1680,T cells,1.0
+1681,B cells,0.8
+1682,T cells,1.0
+1683,T cells,1.0
+1684,T cells,1.0
+1685,T cells,1.0
+1686,NK / cytotoxic lymphocytes,1.0
+1687,T cells,1.0
+1688,T cells,1.0
+1689,T cells,1.0
+1690,Myeloid cells / monocytes,1.0
+1691,T cells,1.0
+1692,T cells,0.8
+1693,B cells,1.0
+1694,NK / cytotoxic lymphocytes,0.4
+1695,T cells,1.0
+1696,T cells,1.0
+1697,T cells,1.0
+1698,T cells,0.2
+1699,NK / cytotoxic lymphocytes,1.0
+1700,T cells,0.4
+1701,B cells,1.0
+1702,T cells,0.6
+1703,T cells,1.0
+1704,Myeloid cells / monocytes,1.0
+1705,NK / cytotoxic lymphocytes,1.0
+1706,T cells,1.0
+1707,NK / cytotoxic lymphocytes,1.0
+1708,T cells,1.0
+1709,T cells,0.8
+1710,T cells,1.0
+1711,T cells,0.8
+1712,Myeloid cells / monocytes,1.0
+1713,T cells,1.0
+1714,Myeloid cells / monocytes,1.0
+1715,Myeloid cells / monocytes,1.0
+1716,NK / cytotoxic lymphocytes,0.6
+1717,Myeloid cells / monocytes,1.0
+1718,T cells,1.0
+1719,T cells,0.8
+1720,T cells,1.0
+1721,T cells,1.0
+1722,T cells,0.4
+1723,T cells,1.0
+1724,Myeloid cells / monocytes,1.0
+1725,T cells,1.0
+1726,Myeloid cells / monocytes,1.0
+1727,Myeloid cells / monocytes,1.0
+1728,B cells,0.4
+1729,T cells,1.0
+1730,T cells,1.0
+1731,T cells,0.8
+1732,T cells,1.0
+1733,T cells,1.0
+1734,T cells,1.0
+1735,Myeloid cells / monocytes,1.0
+1736,NK / cytotoxic lymphocytes,0.8
+1737,T cells,1.0
+1738,Myeloid cells / monocytes,1.0
+1739,B cells,1.0
+1740,T cells,0.6
+1741,T cells,1.0
+1742,B cells,0.4
+1743,T cells,1.0
+1744,T cells,1.0
+1745,NK / cytotoxic lymphocytes,1.0
+1746,T cells,0.6
+1747,T cells,1.0
+1748,T cells,1.0
+1749,T cells,1.0
+1750,T cells,1.0
+1751,T cells,1.0
+1752,NK / cytotoxic lymphocytes,1.0
+1753,NK / cytotoxic lymphocytes,1.0
+1754,NK / cytotoxic lymphocytes,0.6
+1755,NK / cytotoxic lymphocytes,0.4
+1756,T cells,1.0
+1757,T cells,1.0
+1758,T cells,1.0
+1759,T cells,1.0
+1760,NK / cytotoxic lymphocytes,1.0
+1761,NK / cytotoxic lymphocytes,1.0
+1762,T cells,1.0
+1763,B cells,0.8
+1764,T cells,1.0
+1765,Myeloid cells / monocytes,1.0
+1766,T cells,1.0
+1767,B cells,1.0
+1768,Myeloid cells / monocytes,1.0
+1769,T cells,1.0
+1770,T cells,1.0
+1771,NK / cytotoxic lymphocytes,0.6
+1772,NK / cytotoxic lymphocytes,0.8
+1773,T cells,1.0
+1774,Myeloid cells / monocytes,1.0
+1775,T cells,1.0
+1776,T cells,1.0
+1777,T cells,1.0
+1778,T cells,0.8
+1779,NK / cytotoxic lymphocytes,1.0
+1780,T cells,1.0
+1781,Myeloid cells / monocytes,1.0
+1782,B cells,0.8
+1783,T cells,1.0
+1784,T cells,1.0
+1785,T cells,1.0
+1786,B cells,0.8
+1787,T cells,1.0
+1788,T cells,1.0
+1789,NK / cytotoxic lymphocytes,0.8
+1790,B cells,1.0
+1791,B cells,1.0
+1792,B cells,1.0
+1793,NK / cytotoxic lymphocytes,0.8
+1794,T cells,1.0
+1795,Myeloid cells / monocytes,1.0
+1796,T cells,1.0
+1797,NK / cytotoxic lymphocytes,1.0
+1798,T cells,1.0
+1799,T cells,1.0
+1800,B cells,0.6
+1801,T cells,0.8
+1802,NK / cytotoxic lymphocytes,1.0
+1803,NK / cytotoxic lymphocytes,0.8
+1804,T cells,1.0
+1805,T cells,1.0
+1806,T cells,1.0
+1807,T cells,1.0
+1808,NK / cytotoxic lymphocytes,0.0
+1809,T cells,0.6
+1810,B cells,1.0
+1811,Myeloid cells / monocytes,1.0
+1812,T cells,1.0
+1813,T cells,1.0
+1814,Myeloid cells / monocytes,1.0
+1815,T cells,1.0
+1816,T cells,1.0
+1817,Myeloid cells / monocytes,1.0
+1818,T cells,1.0
+1819,NK / cytotoxic lymphocytes,0.6
+1820,B cells,1.0
+1821,NK / cytotoxic lymphocytes,1.0
+1822,B cells,1.0
+1823,T cells,1.0
+1824,T cells,0.8
+1825,T cells,1.0
+1826,NK / cytotoxic lymphocytes,1.0
+1827,B cells,1.0
+1828,B cells,1.0
+1829,Myeloid cells / monocytes,1.0
+1830,Myeloid cells / monocytes,1.0
+1831,B cells,1.0
+1832,B cells,0.8
+1833,T cells,0.6
+1834,T cells,1.0
+1835,Myeloid cells / monocytes,1.0
+1836,Myeloid cells / monocytes,1.0
+1837,B cells,1.0
+1838,T cells,0.8
+1839,T cells,1.0
+1840,T cells,1.0
+1841,NK / cytotoxic lymphocytes,1.0
+1842,Myeloid cells / monocytes,1.0
+1843,T cells,1.0
+1844,B cells,1.0
+1845,T cells,1.0
+1846,T cells,1.0
+1847,NK / cytotoxic lymphocytes,0.8
+1848,Myeloid cells / monocytes,1.0
+1849,Myeloid cells / monocytes,1.0
+1850,B cells,1.0
+1851,T cells,1.0
+1852,NK / cytotoxic lymphocytes,1.0
+1853,NK / cytotoxic lymphocytes,0.6
+1854,NK / cytotoxic lymphocytes,1.0
+1855,B cells,1.0
+1856,T cells,1.0
+1857,T cells,1.0
+1858,NK / cytotoxic lymphocytes,1.0
+1859,T cells,1.0
+1860,T cells,1.0
+1861,T cells,1.0
+1862,Myeloid cells / monocytes,1.0
+1863,T cells,1.0
+1864,T cells,0.6
+1865,T cells,1.0
+1866,Myeloid cells / monocytes,1.0
+1867,NK / cytotoxic lymphocytes,1.0
+1868,B cells,1.0
+1869,B cells,1.0
+1870,T cells,1.0
+1871,Myeloid cells / monocytes,1.0
+1872,B cells,1.0
+1873,T cells,1.0
+1874,T cells,1.0
+1875,Myeloid cells / monocytes,1.0
+1876,T cells,1.0
+1877,Myeloid cells / monocytes,1.0
+1878,B cells,0.8
+1879,T cells,1.0
+1880,B cells,1.0
+1881,T cells,1.0
+1882,NK / cytotoxic lymphocytes,1.0
+1883,T cells,0.8
+1884,T cells,1.0
+1885,T cells,1.0
+1886,B cells,1.0
+1887,T cells,1.0
+1888,NK / cytotoxic lymphocytes,0.8
+1889,T cells,1.0
+1890,T cells,1.0
+1891,NK / cytotoxic lymphocytes,0.8
+1892,Myeloid cells / monocytes,1.0
+1893,T cells,1.0
+1894,T cells,1.0
+1895,B cells,1.0
+1896,NK / cytotoxic lymphocytes,1.0
+1897,T cells,1.0
+1898,T cells,1.0
+1899,T cells,0.4
+1900,Myeloid cells / monocytes,1.0
+1901,T cells,0.8
+1902,Myeloid cells / monocytes,1.0
+1903,T cells,1.0
+1904,NK / cytotoxic lymphocytes,1.0
+1905,NK / cytotoxic lymphocytes,0.2
+1906,Myeloid cells / monocytes,1.0
+1907,T cells,1.0
+1908,Myeloid cells / monocytes,1.0
+1909,T cells,1.0
+1910,T cells,1.0
+1911,Myeloid cells / monocytes,1.0
+1912,T cells,1.0
+1913,B cells,1.0
+1914,T cells,1.0
+1915,T cells,1.0
+1916,NK / cytotoxic lymphocytes,0.6
+1917,T cells,0.8
+1918,B cells,0.6
+1919,T cells,1.0
+1920,Myeloid cells / monocytes,1.0
+1921,T cells,1.0
+1922,T cells,1.0
+1923,B cells,1.0
+1924,T cells,1.0
+1925,NK / cytotoxic lymphocytes,1.0
+1926,NK / cytotoxic lymphocytes,1.0
+1927,T cells,1.0
+1928,NK / cytotoxic lymphocytes,1.0
+1929,Myeloid cells / monocytes,1.0
+1930,Myeloid cells / monocytes,1.0
+1931,T cells,1.0
+1932,Myeloid cells / monocytes,1.0
+1933,NK / cytotoxic lymphocytes,1.0
+1934,T cells,1.0
+1935,B cells,0.8
+1936,T cells,1.0
+1937,B cells,0.8
+1938,B cells,0.6
+1939,T cells,1.0
+1940,T cells,1.0
+1941,NK / cytotoxic lymphocytes,0.6
+1942,B cells,1.0
+1943,B cells,1.0
+1944,B cells,1.0
+1945,T cells,0.8
+1946,NK / cytotoxic lymphocytes,0.6
+1947,Myeloid cells / monocytes,1.0
+1948,NK / cytotoxic lymphocytes,0.0
+1949,NK / cytotoxic lymphocytes,0.8
+1950,T cells,1.0
+1951,T cells,1.0
+1952,NK / cytotoxic lymphocytes,1.0
+1953,Myeloid cells / monocytes,1.0
+1954,T cells,1.0
+1955,NK / cytotoxic lymphocytes,1.0
+1956,B cells,1.0
+1957,T cells,1.0
+1958,NK / cytotoxic lymphocytes,0.8
+1959,Myeloid cells / monocytes,1.0
+1960,T cells,1.0
+1961,B cells,1.0
+1962,T cells,1.0
+1963,Myeloid cells / monocytes,1.0
+1964,Myeloid cells / monocytes,1.0
+1965,T cells,1.0
+1966,T cells,1.0
+1967,B cells,1.0
+1968,Myeloid cells / monocytes,1.0
+1969,Myeloid cells / monocytes,1.0
+1970,B cells,1.0
+1971,T cells,1.0
+1972,NK / cytotoxic lymphocytes,0.2
+1973,B cells,1.0
+1974,T cells,1.0
+1975,T cells,1.0
+1976,T cells,0.8
+1977,T cells,1.0
+1978,NK / cytotoxic lymphocytes,0.2
+1979,T cells,1.0
+1980,Myeloid cells / monocytes,1.0
+1981,T cells,0.2
+1982,B cells,1.0
+1983,T cells,0.8
+1984,T cells,1.0
+1985,B cells,1.0
+1986,T cells,1.0
+1987,NK / cytotoxic lymphocytes,1.0
+1988,B cells,1.0
+1989,T cells,1.0
+1990,Myeloid cells / monocytes,1.0
+1991,T cells,1.0
+1992,NK / cytotoxic lymphocytes,1.0
+1993,T cells,0.6
+1994,T cells,1.0
+1995,T cells,1.0
+1996,T cells,1.0
+1997,T cells,0.8
+1998,T cells,1.0
+1999,B cells,0.8
+2000,T cells,1.0
+2001,T cells,0.8
+2002,NK / cytotoxic lymphocytes,0.6
+2003,T cells,1.0
+2004,B cells,0.6
+2005,T cells,1.0
+2006,T cells,1.0
+2007,T cells,1.0
+2008,T cells,1.0
+2009,NK / cytotoxic lymphocytes,1.0
+2010,Myeloid cells / monocytes,1.0
+2011,T cells,1.0
+2012,NK / cytotoxic lymphocytes,0.0
+2013,B cells,1.0
+2014,B cells,0.8
+2015,T cells,1.0
+2016,B cells,1.0
+2017,T cells,1.0
+2018,NK / cytotoxic lymphocytes,1.0
+2019,T cells,1.0
+2020,B cells,1.0
+2021,T cells,1.0
+2022,NK / cytotoxic lymphocytes,0.4
+2023,B cells,1.0
+2024,T cells,1.0
+2025,T cells,0.8
+2026,NK / cytotoxic lymphocytes,1.0
+2027,B cells,1.0
+2028,T cells,1.0
+2029,B cells,0.8
+2030,T cells,1.0
+2031,T cells,1.0
+2032,T cells,1.0
+2033,NK / cytotoxic lymphocytes,1.0
+2034,NK / cytotoxic lymphocytes,1.0
+2035,Myeloid cells / monocytes,1.0
+2036,Myeloid cells / monocytes,1.0
+2037,B cells,0.4
+2038,T cells,1.0
+2039,B cells,0.8
+2040,T cells,0.8
+2041,T cells,1.0
+2042,T cells,1.0
+2043,T cells,1.0
+2044,T cells,1.0
+2045,T cells,1.0
+2046,B cells,1.0
+2047,T cells,0.8
+2048,T cells,1.0
+2049,B cells,1.0
+2050,NK / cytotoxic lymphocytes,0.4
+2051,NK / cytotoxic lymphocytes,1.0
+2052,T cells,1.0
+2053,Myeloid cells / monocytes,1.0
+2054,Myeloid cells / monocytes,1.0
+2055,B cells,1.0
+2056,T cells,1.0
+2057,T cells,0.2
+2058,Myeloid cells / monocytes,1.0
+2059,T cells,1.0
+2060,NK / cytotoxic lymphocytes,1.0
+2061,NK / cytotoxic lymphocytes,1.0
+2062,B cells,1.0
+2063,Myeloid cells / monocytes,1.0
+2064,B cells,0.8
+2065,T cells,1.0
+2066,T cells,1.0
+2067,T cells,0.2
+2068,NK / cytotoxic lymphocytes,1.0
+2069,B cells,1.0
+2070,Myeloid cells / monocytes,1.0
+2071,NK / cytotoxic lymphocytes,0.6
+2072,B cells,1.0
+2073,Myeloid cells / monocytes,1.0
+2074,NK / cytotoxic lymphocytes,1.0
+2075,B cells,1.0
+2076,B cells,1.0
+2077,B cells,1.0
+2078,B cells,1.0
+2079,B cells,1.0
+2080,NK / cytotoxic lymphocytes,0.8
+2081,B cells,0.8
+2082,T cells,1.0
+2083,T cells,0.8
+2084,T cells,0.8
+2085,T cells,1.0
+2086,B cells,1.0
+2087,T cells,1.0
+2088,T cells,1.0
+2089,T cells,1.0
+2090,T cells,1.0
+2091,NK / cytotoxic lymphocytes,1.0
+2092,T cells,1.0
+2093,B cells,1.0
+2094,T cells,1.0
+2095,B cells,1.0
+2096,B cells,1.0
+2097,T cells,0.6
+2098,T cells,1.0
+2099,T cells,1.0
+2100,T cells,1.0
+2101,T cells,1.0
+2102,NK / cytotoxic lymphocytes,1.0
+2103,NK / cytotoxic lymphocytes,1.0
+2104,T cells,1.0
+2105,B cells,1.0
+2106,B cells,0.8
+2107,B cells,0.8
+2108,T cells,1.0
+2109,Myeloid cells / monocytes,1.0
+2110,T cells,1.0
+2111,Myeloid cells / monocytes,1.0
+2112,B cells,1.0
+2113,T cells,1.0
+2114,NK / cytotoxic lymphocytes,0.8
+2115,B cells,1.0
+2116,T cells,1.0
+2117,B cells,1.0
+2118,T cells,0.8
+2119,Myeloid cells / monocytes,1.0
+2120,B cells,1.0
+2121,B cells,1.0
+2122,T cells,1.0
+2123,Myeloid cells / monocytes,1.0
+2124,T cells,1.0
+2125,B cells,1.0
+2126,B cells,0.8
+2127,B cells,1.0
+2128,NK / cytotoxic lymphocytes,0.4
+2129,T cells,1.0
+2130,Myeloid cells / monocytes,1.0
+2131,T cells,1.0
+2132,T cells,1.0
+2133,T cells,0.8
+2134,NK / cytotoxic lymphocytes,0.4
+2135,NK / cytotoxic lymphocytes,1.0
+2136,B cells,1.0
+2137,T cells,1.0
+2138,T cells,1.0
+2139,NK / cytotoxic lymphocytes,1.0
+2140,T cells,0.2
+2141,B cells,1.0
+2142,T cells,0.8
+2143,B cells,1.0
+2144,NK / cytotoxic lymphocytes,0.4
+2145,T cells,1.0
+2146,T cells,0.4
+2147,Myeloid cells / monocytes,1.0
+2148,T cells,1.0
+2149,T cells,1.0
+2150,B cells,1.0
+2151,T cells,0.6
+2152,B cells,1.0
+2153,B cells,1.0
+2154,B cells,1.0
+2155,B cells,0.8
+2156,Myeloid cells / monocytes,1.0
+2157,T cells,1.0
+2158,T cells,1.0
+2159,Myeloid cells / monocytes,1.0
+2160,B cells,1.0
+2161,NK / cytotoxic lymphocytes,1.0
+2162,B cells,1.0
+2163,T cells,0.4
+2164,T cells,1.0
+2165,T cells,0.4
+2166,Myeloid cells / monocytes,1.0
+2167,T cells,1.0
+2168,B cells,1.0
+2169,B cells,1.0
+2170,B cells,1.0
+2171,T cells,1.0
+2172,T cells,1.0
+2173,B cells,1.0
+2174,NK / cytotoxic lymphocytes,0.2
+2175,B cells,1.0
+2176,B cells,1.0
+2177,B cells,0.8
+2178,B cells,1.0
+2179,B cells,1.0
+2180,T cells,1.0
+2181,B cells,1.0
+2182,B cells,1.0
+2183,Myeloid cells / monocytes,1.0
+2184,Myeloid cells / monocytes,1.0
+2185,Myeloid cells / monocytes,1.0
+2186,B cells,1.0
+2187,B cells,0.6
+2188,B cells,1.0
+2189,NK / cytotoxic lymphocytes,1.0
+2190,B cells,1.0
+2191,B cells,1.0
+2192,B cells,0.8
+2193,B cells,1.0
+2194,T cells,1.0
+2195,B cells,0.4
+2196,T cells,1.0
+2197,T cells,0.8
+2198,T cells,1.0
+2199,T cells,1.0
+2200,T cells,0.6
+2201,T cells,1.0
+2202,Myeloid cells / monocytes,1.0
+2203,Myeloid cells / monocytes,1.0
+2204,Myeloid cells / monocytes,1.0
+2205,Myeloid cells / monocytes,1.0
+2206,T cells,1.0
+2207,Myeloid cells / monocytes,1.0
+2208,Myeloid cells / monocytes,1.0
+2209,B cells,1.0
+2210,Myeloid cells / monocytes,1.0
+2211,T cells,0.4
+2212,NK / cytotoxic lymphocytes,0.8
+2213,B cells,1.0
+2214,NK / cytotoxic lymphocytes,0.8
+2215,T cells,1.0
+2216,B cells,1.0
+2217,T cells,1.0
+2218,T cells,1.0
+2219,T cells,1.0
+2220,T cells,1.0
+2221,B cells,1.0
+2222,T cells,1.0
+2223,T cells,1.0
+2224,T cells,0.2
+2225,T cells,1.0
+2226,T cells,0.6
+2227,B cells,1.0
+2228,T cells,1.0
+2229,Myeloid cells / monocytes,1.0
+2230,T cells,0.4
+2231,T cells,1.0
+2232,T cells,1.0
+2233,Myeloid cells / monocytes,1.0
+2234,B cells,1.0
+2235,B cells,1.0
+2236,T cells,0.8
+2237,T cells,1.0
+2238,B cells,1.0
+2239,T cells,1.0
+2240,B cells,1.0
+2241,T cells,1.0
+2242,T cells,0.8
+2243,B cells,1.0
+2244,B cells,1.0
+2245,B cells,1.0
+2246,T cells,1.0
+2247,B cells,1.0
+2248,Myeloid cells / monocytes,1.0
+2249,Myeloid cells / monocytes,1.0
+2250,B cells,1.0
+2251,B cells,1.0
+2252,Myeloid cells / monocytes,1.0
+2253,T cells,1.0
+2254,B cells,1.0
+2255,B cells,1.0
+2256,T cells,1.0
+2257,B cells,1.0
+2258,B cells,1.0
+2259,T cells,1.0
+2260,T cells,0.8
+2261,B cells,1.0
+2262,T cells,0.8
+2263,T cells,0.8
+2264,NK / cytotoxic lymphocytes,0.8
+2265,B cells,1.0
+2266,Myeloid cells / monocytes,1.0
+2267,B cells,1.0
+2268,T cells,1.0
+2269,T cells,1.0
+2270,B cells,1.0
+2271,T cells,1.0
+2272,NK / cytotoxic lymphocytes,1.0
+2273,B cells,1.0
+2274,NK / cytotoxic lymphocytes,0.6
+2275,T cells,1.0
+2276,B cells,1.0
+2277,B cells,1.0
+2278,NK / cytotoxic lymphocytes,1.0
+2279,T cells,1.0
+2280,B cells,0.8
+2281,B cells,0.8
+2282,B cells,0.8
+2283,T cells,0.8
+2284,B cells,1.0
+2285,NK / cytotoxic lymphocytes,0.8
+2286,B cells,1.0
+2287,T cells,1.0
+2288,B cells,1.0
+2289,B cells,1.0
+2290,T cells,1.0
+2291,T cells,1.0
+2292,B cells,1.0
+2293,NK / cytotoxic lymphocytes,0.0
+2294,B cells,1.0
+2295,NK / cytotoxic lymphocytes,1.0
+2296,B cells,1.0
+2297,B cells,1.0
+2298,T cells,1.0
+2299,T cells,0.8
+2300,T cells,1.0
+2301,NK / cytotoxic lymphocytes,1.0
+2302,T cells,0.8
+2303,Myeloid cells / monocytes,1.0
+2304,Myeloid cells / monocytes,1.0
+2305,B cells,1.0
+2306,Myeloid cells / monocytes,1.0
+2307,Myeloid cells / monocytes,1.0
+2308,T cells,1.0
+2309,T cells,0.8
+2310,T cells,0.6
+2311,Myeloid cells / monocytes,1.0
+2312,T cells,1.0
+2313,Myeloid cells / monocytes,1.0
+2314,T cells,1.0
+2315,T cells,1.0
+2316,B cells,1.0
+2317,T cells,0.8
+2318,Myeloid cells / monocytes,1.0
+2319,T cells,0.0
+2320,B cells,1.0
+2321,B cells,1.0
+2322,Myeloid cells / monocytes,1.0
+2323,T cells,0.8
+2324,T cells,1.0
+2325,T cells,0.8
+2326,NK / cytotoxic lymphocytes,0.8
+2327,B cells,1.0
+2328,T cells,1.0
+2329,B cells,1.0
+2330,Myeloid cells / monocytes,1.0
+2331,T cells,1.0
+2332,Myeloid cells / monocytes,1.0
+2333,B cells,0.8
+2334,T cells,1.0
+2335,B cells,1.0
+2336,T cells,0.2
+2337,NK / cytotoxic lymphocytes,0.6
+2338,B cells,1.0
+2339,B cells,0.8
+2340,T cells,1.0
+2341,T cells,1.0
+2342,T cells,1.0
+2343,B cells,1.0
+2344,T cells,1.0
+2345,T cells,1.0
+2346,B cells,1.0
+2347,NK / cytotoxic lymphocytes,0.8
+2348,Myeloid cells / monocytes,1.0
+2349,B cells,1.0
+2350,Myeloid cells / monocytes,1.0
+2351,T cells,0.8
+2352,B cells,0.8
+2353,B cells,1.0
+2354,B cells,1.0
+2355,Myeloid cells / monocytes,1.0
+2356,B cells,1.0
+2357,Myeloid cells / monocytes,1.0
+2358,Myeloid cells / monocytes,1.0
+2359,Myeloid cells / monocytes,1.0
+2360,Myeloid cells / monocytes,1.0
+2361,T cells,0.4
+2362,B cells,1.0
+2363,Myeloid cells / monocytes,1.0
+2364,T cells,1.0
+2365,T cells,0.2
+2366,T cells,0.8
+2367,Myeloid cells / monocytes,1.0
+2368,NK / cytotoxic lymphocytes,0.8
+2369,B cells,1.0
+2370,T cells,1.0
+2371,Myeloid cells / monocytes,1.0
+2372,B cells,0.8
+2373,B cells,1.0
+2374,T cells,0.8
+2375,NK / cytotoxic lymphocytes,0.4
+2376,NK / cytotoxic lymphocytes,0.6
+2377,T cells,1.0
+2378,T cells,1.0
+2379,T cells,0.8
+2380,T cells,0.4
+2381,Myeloid cells / monocytes,1.0
+2382,B cells,0.8
+2383,Myeloid cells / monocytes,1.0
+2384,NK / cytotoxic lymphocytes,1.0
+2385,Myeloid cells / monocytes,1.0
+2386,B cells,1.0
+2387,B cells,0.8
+2388,T cells,0.6
+2389,T cells,0.6
+2390,B cells,1.0
+2391,Myeloid cells / monocytes,1.0
+2392,T cells,1.0
+2393,B cells,1.0
+2394,NK / cytotoxic lymphocytes,1.0
+2395,Myeloid cells / monocytes,1.0
+2396,T cells,0.8
+2397,B cells,1.0
+2398,NK / cytotoxic lymphocytes,0.8
+2399,Myeloid cells / monocytes,1.0
+2400,B cells,1.0
+2401,T cells,1.0
+2402,B cells,1.0
+2403,NK / cytotoxic lymphocytes,0.8
+2404,Myeloid cells / monocytes,1.0
+2405,NK / cytotoxic lymphocytes,0.4
+2406,B cells,1.0
+2407,T cells,0.6
+2408,NK / cytotoxic lymphocytes,0.8
+2409,T cells,1.0
+2410,B cells,1.0
+2411,NK / cytotoxic lymphocytes,0.8
+2412,T cells,0.4
+2413,B cells,1.0
+2414,NK / cytotoxic lymphocytes,1.0
+2415,T cells,1.0
+2416,B cells,1.0
+2417,NK / cytotoxic lymphocytes,0.6
+2418,T cells,0.6
+2419,T cells,0.4
+2420,T cells,0.8
+2421,T cells,0.2
+2422,Myeloid cells / monocytes,1.0
+2423,T cells,1.0
+2424,B cells,0.8
+2425,T cells,1.0
+2426,B cells,1.0
+2427,T cells,1.0
+2428,B cells,1.0
+2429,T cells,0.8
+2430,B cells,1.0
+2431,T cells,0.8
+2432,B cells,1.0
+2433,Myeloid cells / monocytes,1.0
+2434,NK / cytotoxic lymphocytes,0.8
+2435,T cells,0.8
+2436,Myeloid cells / monocytes,1.0
+2437,Myeloid cells / monocytes,1.0
+2438,T cells,1.0
+2439,Myeloid cells / monocytes,1.0
+2440,T cells,0.8
+2441,T cells,0.6
+2442,T cells,1.0
+2443,B cells,1.0
+2444,Myeloid cells / monocytes,1.0
+2445,B cells,1.0
+2446,Myeloid cells / monocytes,1.0
+2447,T cells,0.8
+2448,B cells,1.0
+2449,B cells,0.8
+2450,Myeloid cells / monocytes,1.0
+2451,B cells,0.8
+2452,B cells,0.8
+2453,T cells,0.4
+2454,B cells,0.6
+2455,T cells,0.6
+2456,T cells,0.8
+2457,NK / cytotoxic lymphocytes,0.6
+2458,Myeloid cells / monocytes,1.0
+2459,B cells,0.6
+2460,Myeloid cells / monocytes,1.0
+2461,T cells,0.8
+2462,Myeloid cells / monocytes,1.0
+2463,T cells,0.8
+2464,Myeloid cells / monocytes,1.0
+2465,Myeloid cells / monocytes,1.0
+2466,Myeloid cells / monocytes,1.0
+2467,B cells,1.0
+2468,T cells,0.8
+2469,B cells,0.8
+2470,T cells,0.6
+2471,Myeloid cells / monocytes,1.0
+2472,B cells,1.0
+2473,NK / cytotoxic lymphocytes,0.2
+2474,NK / cytotoxic lymphocytes,0.4
+2475,B cells,0.8
+2476,B cells,1.0
+2477,NK / cytotoxic lymphocytes,1.0
+2478,Myeloid cells / monocytes,1.0
+2479,Myeloid cells / monocytes,1.0
+2480,T cells,0.4
+2481,Myeloid cells / monocytes,1.0
+2482,Myeloid cells / monocytes,1.0
+2483,T cells,0.8
+2484,B cells,1.0
+2485,Myeloid cells / monocytes,1.0
+2486,Myeloid cells / monocytes,1.0
+2487,B cells,1.0
+2488,T cells,0.8
+2489,T cells,1.0
+2490,T cells,0.8
+2491,Myeloid cells / monocytes,1.0
+2492,Myeloid cells / monocytes,1.0
+2493,Myeloid cells / monocytes,1.0
+2494,Myeloid cells / monocytes,1.0
+2495,Myeloid cells / monocytes,1.0
+2496,Myeloid cells / monocytes,1.0
+2497,T cells,0.4
+2498,T cells,0.8
+2499,T cells,0.8
+2500,B cells,1.0
+2501,T cells,0.8
+2502,NK / cytotoxic lymphocytes,0.4
+2503,T cells,0.6
+2504,T cells,1.0
+2505,Myeloid cells / monocytes,1.0
+2506,NK / cytotoxic lymphocytes,0.8
+2507,Myeloid cells / monocytes,1.0
+2508,NK / cytotoxic lymphocytes,0.6
+2509,NK / cytotoxic lymphocytes,0.4
+2510,Myeloid cells / monocytes,1.0
+2511,T cells,1.0
+2512,T cells,0.6
+2513,Myeloid cells / monocytes,1.0
+2514,NK / cytotoxic lymphocytes,0.2
+2515,Myeloid cells / monocytes,1.0
+2516,B cells,1.0
+2517,T cells,1.0
+2518,NK / cytotoxic lymphocytes,0.8
+2519,B cells,1.0
+2520,Myeloid cells / monocytes,1.0
+2521,T cells,1.0
+2522,B cells,1.0
+2523,T cells,0.4
+2524,Myeloid cells / monocytes,1.0
+2525,Myeloid cells / monocytes,1.0
+2526,T cells,1.0
+2527,T cells,1.0
+2528,B cells,1.0
+2529,Myeloid cells / monocytes,1.0
+2530,T cells,0.8
+2531,Myeloid cells / monocytes,1.0
+2532,Myeloid cells / monocytes,1.0
+2533,Myeloid cells / monocytes,1.0
+2534,NK / cytotoxic lymphocytes,0.0
+2535,Myeloid cells / monocytes,1.0
+2536,NK / cytotoxic lymphocytes,0.4
+2537,NK / cytotoxic lymphocytes,0.6
+2538,NK / cytotoxic lymphocytes,0.2
+2539,T cells,1.0
+2540,T cells,0.8
+2541,T cells,1.0
+2542,T cells,0.8
+2543,NK / cytotoxic lymphocytes,0.4
+2544,T cells,1.0
+2545,NK / cytotoxic lymphocytes,0.4
+2546,T cells,0.8
+2547,NK / cytotoxic lymphocytes,1.0
+2548,T cells,0.8
+2549,T cells,1.0
+2550,B cells,1.0
+2551,Myeloid cells / monocytes,1.0
+2552,T cells,0.8
+2553,NK / cytotoxic lymphocytes,0.8
+2554,NK / cytotoxic lymphocytes,0.8
+2555,T cells,0.6
+2556,T cells,0.8
+2557,T cells,1.0
+2558,NK / cytotoxic lymphocytes,0.6
+2559,Myeloid cells / monocytes,1.0
+2560,B cells,0.6
+2561,Myeloid cells / monocytes,1.0
+2562,NK / cytotoxic lymphocytes,0.2
+2563,B cells,1.0
+2564,T cells,0.8
+2565,T cells,0.6
+2566,T cells,1.0
+2567,Myeloid cells / monocytes,1.0
+2568,T cells,1.0
+2569,T cells,0.4
+2570,T cells,0.8
+2571,Myeloid cells / monocytes,1.0
+2572,B cells,1.0
+2573,Myeloid cells / monocytes,1.0
+2574,T cells,1.0
+2575,Myeloid cells / monocytes,0.4
+2576,Myeloid cells / monocytes,1.0
+2577,T cells,0.6
+2578,NK / cytotoxic lymphocytes,0.8
+2579,T cells,1.0
+2580,T cells,0.8
+2581,Myeloid cells / monocytes,1.0
+2582,NK / cytotoxic lymphocytes,0.0
+2583,Myeloid cells / monocytes,1.0
+2584,B cells,0.8
+2585,T cells,0.8
+2586,Platelets,1.0
+2587,NK / cytotoxic lymphocytes,0.6
+2588,Myeloid cells / monocytes,1.0
+2589,B cells,0.8
+2590,NK / cytotoxic lymphocytes,0.2
+2591,B cells,1.0
+2592,B cells,1.0
+2593,T cells,0.8
+2594,Myeloid cells / monocytes,1.0
+2595,B cells,1.0
+2596,Myeloid cells / monocytes,1.0
+2597,T cells,0.8
+2598,T cells,1.0
+2599,T cells,0.8
+2600,B cells,0.6
+2601,B cells,1.0
+2602,Myeloid cells / monocytes,1.0
+2603,Platelets,1.0
+2604,T cells,0.8
+2605,B cells,1.0
+2606,T cells,0.4
+2607,Myeloid cells / monocytes,1.0
+2608,Myeloid cells / monocytes,1.0
+2609,Myeloid cells / monocytes,1.0
+2610,Myeloid cells / monocytes,1.0
+2611,B cells,1.0
+2612,Myeloid cells / monocytes,1.0
+2613,B cells,0.8
+2614,T cells,0.6
+2615,B cells,0.0
+2616,B cells,0.2
+2617,T cells,1.0
+2618,T cells,0.6
+2619,Myeloid cells / monocytes,1.0
+2620,Platelets,1.0
+2621,Myeloid cells / monocytes,1.0
+2622,B cells,0.4
+2623,Myeloid cells / monocytes,1.0
+2624,B cells,0.8
+2625,Platelets,1.0
+2626,B cells,0.8
+2627,NK / cytotoxic lymphocytes,0.6
+2628,Platelets,1.0
+2629,Myeloid cells / monocytes,1.0
+2630,B cells,0.4
+2631,Myeloid cells / monocytes,1.0
+2632,T cells,1.0
+2633,Myeloid cells / monocytes,1.0
+2634,Myeloid cells / monocytes,1.0
+2635,B cells,0.6
+2636,Myeloid cells / monocytes,1.0
+2637,T cells,0.8
+2638,B cells,0.8
+2639,Myeloid cells / monocytes,1.0
+2640,NK / cytotoxic lymphocytes,0.2
+2641,B cells,1.0
+2642,Myeloid cells / monocytes,1.0
+2643,Myeloid cells / monocytes,1.0
+2644,T cells,0.6
+2645,NK / cytotoxic lymphocytes,0.8
+2646,Platelets,1.0
+2647,B cells,0.8
+2648,Myeloid cells / monocytes,1.0
+2649,Myeloid cells / monocytes,1.0
+2650,Myeloid cells / monocytes,1.0
+2651,Myeloid cells / monocytes,1.0
+2652,Platelets,1.0
+2653,NK / cytotoxic lymphocytes,0.4
+2654,B cells,0.6
+2655,Myeloid cells / monocytes,1.0
+2656,T cells,0.2
+2657,Platelets,1.0
+2658,T cells,0.2
+2659,Myeloid cells / monocytes,1.0
+2660,T cells,0.8
+2661,T cells,0.4
+2662,T cells,0.8
+2663,Platelets,1.0
+2664,Platelets,1.0
+2665,T cells,0.6
+2666,T cells,0.2
+2667,T cells,0.8
+2668,T cells,1.0
+2669,Platelets,1.0
+2670,Platelets,1.0

@@ -1,0 +1,7 @@
+cell_type,cell_count,mean_neighbor_consistency,median_neighbor_consistency
+Myeloid cells / monocytes,638,0.9922,1.0
+T cells,1183,0.9094,1.0
+Platelets,15,0.8667,1.0
+B cells,347,0.8565,1.0
+NK / cytotoxic lymphocytes,455,0.7763,1.0
+Antigen-presenting cells; unresolved,33,0.6182,0.6

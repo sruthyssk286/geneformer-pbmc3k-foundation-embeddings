@@ -1,0 +1,4 @@
+analysis,value,unit
+Geneformer Leiden-label silhouette,0.1015,cosine silhouette
+Reconstructed PCA silhouette,0.3044,cosine silhouette
+Mean nearest-neighbor consistency,0.8958,fraction

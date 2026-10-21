@@ -1,0 +1,7 @@
+leiden,cell_count,annotation,evidence
+0,1183,T cells,"CD3D, CD3E"
+1,638,Myeloid cells / monocytes,"LYZ, S100A8, S100A9, TYROBP"
+2,455,NK / cytotoxic lymphocytes,"NKG7, GNLY, GZMB, CCL5"
+3,347,B cells,"MS4A1, CD79A, CD79B"
+4,33,Antigen-presenting cells; unresolved,"HLA-DRA, HLA-DPA1, HLA-DPB1, CD74"
+5,15,Platelets,"PF4, PPBP, GNG11"
