@@ -1,0 +1,6 @@
+# Python package versions used in the Google Colab analysis
+scanpy==1.12.4
+transformers==4.46.0
+huggingface_hub==0.36.2
+datasets==4.0.0
+loompy==3.0.8
