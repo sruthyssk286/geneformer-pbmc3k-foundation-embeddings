@@ -75,3 +75,29 @@ Embeddings and analysis outputs were generated in Google Colab using Geneformer 
 - Refine cell-type annotations.
 - Implement a more rigorous permutation analysis.
 - Explore independent biological validation.
+
+## Reproducibility and setup
+
+### Analysis notebook
+
+The project workflow and preliminary findings are documented in
+[`geneformer_pbmc3k_analysis.ipynb`](notebooks/geneformer_pbmc3k_analysis.ipynb).
+
+**Current status:** The notebook currently documents the workflow and results.
+It does not yet contain the complete executable analysis pipeline.
+
+### Software environment
+
+The package versions recorded from the Google Colab analysis are listed in
+[`requirements.txt`](requirements.txt).
+
+These versions are a starting point, not a complete environment lockfile.
+Reproducing the full analysis may require additional dependencies, model files,
+Geneformer resources, and access to the input dataset.
+
+### Results
+
+The `results/` directory contains the embedding matrix, UMAP coordinates,
+cluster annotations, neighborhood-consistency metrics, and silhouette
+comparison tables. The `figures/` directory contains the corresponding
+visualizations.
