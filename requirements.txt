@@ -1,6 +1,11 @@
-# Python package versions used in the Google Colab analysis
-scanpy==1.12.4
-transformers==4.46.0
-huggingface_hub==0.36.2
-datasets==4.0.0
-loompy==3.0.8
+# Dependencies for validating and visualizing the saved comparison results.
+# This is not the full Geneformer tokenization/embedding environment.
+# Tested in the WSL scrna_project environment; versions below reflect that environment.
+
+scanpy==1.11.5
+anndata==0.12.19
+numpy==2.4.6
+pandas==2.3.3
+scikit-learn==1.9.1
+umap-learn==0.5.12
+matplotlib==3.11.2
