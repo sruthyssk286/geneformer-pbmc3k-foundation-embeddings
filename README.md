@@ -142,6 +142,10 @@ See [requirements.txt](requirements.txt) for the current package
 specification. These requirements are not yet a complete environment
 lockfile.
 
+For the tested Geneformer configuration, model and dictionary files,
+tokenizer compatibility workaround, and remaining reproducibility tasks,
+see [Geneformer Reproducibility Notes](docs/geneformer_reproducibility.md).
+
 ## Analysis notebook
 
 The current analysis notebook is:
