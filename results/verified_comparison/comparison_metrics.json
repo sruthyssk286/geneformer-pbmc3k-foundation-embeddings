@@ -1,0 +1,21 @@
+{
+  "dataset": "PBMC 3k",
+  "cells": 2671,
+  "cell_types": 6,
+  "geneformer_model": "Geneformer V1 10M",
+  "geneformer_embedding_method": "cell mean pooling, final layer",
+  "geneformer_dimensions": 256,
+  "scanpy_method": "Seurat HVG selection, 2000 genes, PCA",
+  "scanpy_pca_dimensions": 50,
+  "silhouette_metric": "cosine",
+  "geneformer_overall_silhouette": 0.1075,
+  "scanpy_pca_overall_silhouette": 0.2098,
+  "difference_geneformer_minus_pca": -0.1023,
+  "interpretation": "In this dataset and configuration, Scanpy PCA had higher overall cell-type silhouette separation. This is a descriptive comparison, not proof of universal superiority.",
+  "limitations": [
+    "Only one dataset and one Geneformer embedding configuration tested",
+    "Rare populations have small sample sizes",
+    "Silhouette evaluates separation of the supplied annotations",
+    "UMAP is a visualization and does not establish biological validity"
+  ]
+}
