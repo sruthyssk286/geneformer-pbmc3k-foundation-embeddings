@@ -44,10 +44,10 @@ annotations and should not be treated as independent ground-truth labels.
 
 | Representation | Dimensions | Cosine silhouette |
 |---|---:|---:|
-| Geneformer V1 embeddings | 256 | 0.1075 |
-| Scanpy PCA baseline | 50 | 0.2098 |
+| Geneformer V1 embeddings | 256 | 0.1072 |
+| Scanpy PCA baseline | 50 | 0.2099 |
 
-The difference (Geneformer minus PCA) was -0.1023.
+The difference (Geneformer minus PCA) was -0.1027.
 
 In this PBMC dataset and under the tested configurations, the Scanpy PCA
 representation achieved higher overall separation of the supplied
@@ -61,12 +61,12 @@ superior to foundation-model representations.
 
 | Cell type | Cells | Geneformer mean silhouette | PCA mean silhouette |
 |---|---:|---:|---:|
-| B cells | 347 | -0.0363 | 0.3534 |
+| B cells | 347 | -0.0355 | 0.3534 |
 | Candidate dendritic cells | 33 | 0.5132 | 0.4851 |
-| Cytotoxic lymphocytes / NK-associated | 457 | 0.0786 | 0.2034 |
-| Monocytes / myeloid | 638 | -0.0167 | 0.2233 |
+| Cytotoxic lymphocytes / NK-associated | 455 | 0.0817 | 0.2045 |
+| Monocytes / myeloid | 638 | -0.0173 | 0.2233 |
 | Platelet-associated | 15 | 0.4297 | 0.7384 |
-| T cells | 1,181 | 0.2126 | 0.1483 |
+| T cells | 1,183 | 0.2105 | 0.1483 |
 
 These per-cell-type values are descriptive means. Rare populations have
 small sample sizes, particularly platelet-associated cells and candidate
@@ -85,9 +85,9 @@ biological validity.
 
 | Cell type | Number of cells |
 |---|---:|
-| T cells | 1,181 |
+| T cells | 1,183 |
 | Monocytes / myeloid | 638 |
-| Cytotoxic lymphocytes / NK-associated | 457 |
+| Cytotoxic lymphocytes / NK-associated | 455 |
 | B cells | 347 |
 | Candidate dendritic cells | 33 |
 | Platelet-associated | 15 |
@@ -103,7 +103,8 @@ The `results/verified_comparison/` directory contains:
 - `geneformer_embeddings_256d.csv` — validated embeddings, cell barcodes,
   Leiden labels, and cell-type annotations.
 - `scanpy_pca_scores_50d.csv` — 50-dimensional PCA representation.
-- `cell_type_silhouette_summary.csv` — per-cell-type comparison.
+- `cell_type_silhouette_summary.csv` — original saved-label comparison.
+- `cell_type_silhouette_summary_canonical.csv` — recalculated per-cell-type comparison using canonical annotations.
 - `per_cell_silhouette_scores.csv` — per-cell silhouette values.
 - `geneformer_umap_coordinates.csv` — Geneformer UMAP coordinates.
 - `scanpy_pca_umap_coordinates.csv` — PCA-based UMAP coordinates.

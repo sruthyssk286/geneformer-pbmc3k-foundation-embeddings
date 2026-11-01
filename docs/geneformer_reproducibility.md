@@ -122,10 +122,24 @@ The reported overall cosine silhouette scores were:
 
 | Representation | Dimensions | Mean cosine silhouette |
 |---|---:|---:|
-| Geneformer V1 mean-pooled embeddings | 256 | 0.1075 |
-| Scanpy PCA baseline | 50 | 0.2098 |
+| Geneformer V1 mean-pooled embeddings | 256 | 0.107173 |
+| Scanpy PCA baseline | 50 | 0.209903 |
 
-Difference (Geneformer minus PCA): `-0.1023`.
+Difference (Geneformer minus PCA): `-0.102731`.
+
+The metrics above were recalculated using canonical cell-type
+annotations from `adata_annotated.h5ad`, aligned to the saved feature
+matrices by cell barcode.
+
+The saved comparison matrices contained two cell-type assignments
+that differed from the canonical annotations:
+`CCCTTACTGCAGTT-1` and `GAACCAACCACAAC-1`. Both were saved as
+cytotoxic/NK-associated cells but are annotated as T cells in the
+canonical object. The other 2,669 assignments agreed.
+
+The original saved-label metrics and cell-type summary have been
+retained as audit records. Canonical per-cell-type results are stored
+in `cell_type_silhouette_summary_canonical.csv`.
 
 These are descriptive results for the tested configurations and supplied
 cell-type annotations. They do not establish that one representation is

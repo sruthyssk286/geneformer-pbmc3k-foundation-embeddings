@@ -8,14 +8,48 @@
   "scanpy_method": "Seurat HVG selection, 2000 genes, PCA",
   "scanpy_pca_dimensions": 50,
   "silhouette_metric": "cosine",
-  "geneformer_overall_silhouette": 0.1075,
-  "scanpy_pca_overall_silhouette": 0.2098,
-  "difference_geneformer_minus_pca": -0.1023,
-  "interpretation": "In this dataset and configuration, Scanpy PCA had higher overall cell-type silhouette separation. This is a descriptive comparison, not proof of universal superiority.",
+  "geneformer_overall_silhouette": 0.10717272156017507,
+  "scanpy_pca_overall_silhouette": 0.20990341109124408,
+  "difference_geneformer_minus_pca": -0.10273068953106901,
+  "interpretation": "Using canonical cell-type annotations, Scanpy PCA had higher overall cosine silhouette separation than Geneformer in this dataset and tested configuration. This is descriptive and does not establish universal biological superiority.",
   "limitations": [
     "Only one dataset and one Geneformer embedding configuration tested",
     "Rare populations have small sample sizes",
     "Silhouette evaluates separation of the supplied annotations",
     "UMAP is a visualization and does not establish biological validity"
-  ]
+  ],
+  "annotation_reference": "Canonical adata_annotated.h5ad",
+  "annotation_provenance": {
+    "canonical_barcode_count": 2671,
+    "geneformer_barcode_set_matches": true,
+    "pca_barcode_set_matches": true,
+    "barcode_order_matches": true,
+    "cell_type_assignments_matching_canonical": 2669,
+    "cell_type_assignment_discrepancies": [
+      {
+        "barcode": "CCCTTACTGCAGTT-1",
+        "saved_annotation": "Cytotoxic_lymphocytes_NK_associated",
+        "canonical_annotation": "T cells"
+      },
+      {
+        "barcode": "GAACCAACCACAAC-1",
+        "saved_annotation": "Cytotoxic_lymphocytes_NK_associated",
+        "canonical_annotation": "T cells"
+      }
+    ]
+  },
+  "saved_annotation_metrics": {
+    "geneformer_overall_silhouette": 0.10749960109375248,
+    "scanpy_pca_overall_silhouette": 0.20977937626877996,
+    "difference_geneformer_minus_pca": -0.10227977517502748
+  },
+  "cell_type_counts": {
+    "T cells": 1183,
+    "Monocytes_myeloid": 638,
+    "Cytotoxic_lymphocytes_NK_associated": 455,
+    "B cells": 347,
+    "Candidate_dendritic_cells": 33,
+    "Platelet_associated": 15
+  },
+  "canonical_cell_type_summary_file": "cell_type_silhouette_summary_canonical.csv"
 }
