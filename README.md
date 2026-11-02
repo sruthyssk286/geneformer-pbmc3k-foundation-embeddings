@@ -105,7 +105,8 @@ The `results/verified_comparison/` directory contains:
 - `scanpy_pca_scores_50d.csv` — 50-dimensional PCA representation.
 - `cell_type_silhouette_summary.csv` — original saved-label comparison.
 - `cell_type_silhouette_summary_canonical.csv` — recalculated per-cell-type comparison using canonical annotations.
-- `per_cell_silhouette_scores.csv` — per-cell silhouette values.
+- `per_cell_silhouette_scores_canonical.csv` — canonical per-cell scores with barcode, Leiden cluster, and cell-type identifiers.
+- `per_cell_silhouette_scores.csv` — historical per-cell scores retained for audit purposes.
 - `geneformer_umap_coordinates.csv` — Geneformer UMAP coordinates.
 - `scanpy_pca_umap_coordinates.csv` — PCA-based UMAP coordinates.
 - `geneformer_vs_scanpy_umap.png` — side-by-side UMAP comparison.

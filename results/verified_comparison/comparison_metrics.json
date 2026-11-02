@@ -24,19 +24,9 @@
     "geneformer_barcode_set_matches": true,
     "pca_barcode_set_matches": true,
     "barcode_order_matches": true,
-    "cell_type_assignments_matching_canonical": 2669,
-    "cell_type_assignment_discrepancies": [
-      {
-        "barcode": "CCCTTACTGCAGTT-1",
-        "saved_annotation": "Cytotoxic_lymphocytes_NK_associated",
-        "canonical_annotation": "T cells"
-      },
-      {
-        "barcode": "GAACCAACCACAAC-1",
-        "saved_annotation": "Cytotoxic_lymphocytes_NK_associated",
-        "canonical_annotation": "T cells"
-      }
-    ]
+    "cell_type_assignments_matching_canonical": 2671,
+    "cell_type_assignment_discrepancies": [],
+    "metadata_correction_status": "Corrected and independently verified"
   },
   "saved_annotation_metrics": {
     "geneformer_overall_silhouette": 0.10749960109375248,
@@ -51,5 +41,31 @@
     "Candidate_dendritic_cells": 33,
     "Platelet_associated": 15
   },
-  "canonical_cell_type_summary_file": "cell_type_silhouette_summary_canonical.csv"
+  "canonical_cell_type_summary_file": "cell_type_silhouette_summary_canonical.csv",
+  "historical_annotation_audit": {
+    "original_annotation_provenance": {
+      "canonical_barcode_count": 2671,
+      "geneformer_barcode_set_matches": true,
+      "pca_barcode_set_matches": true,
+      "barcode_order_matches": true,
+      "cell_type_assignments_matching_canonical": 2669,
+      "cell_type_assignment_discrepancies": [
+        {
+          "barcode": "CCCTTACTGCAGTT-1",
+          "saved_annotation": "Cytotoxic_lymphocytes_NK_associated",
+          "canonical_annotation": "T cells"
+        },
+        {
+          "barcode": "GAACCAACCACAAC-1",
+          "saved_annotation": "Cytotoxic_lymphocytes_NK_associated",
+          "canonical_annotation": "T cells"
+        }
+      ]
+    },
+    "original_saved_annotation_metrics": {
+      "geneformer_overall_silhouette": 0.10749960109375248,
+      "scanpy_pca_overall_silhouette": 0.20977937626877996,
+      "difference_geneformer_minus_pca": -0.10227977517502748
+    }
+  }
 }

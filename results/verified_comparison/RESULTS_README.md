@@ -69,3 +69,14 @@ coordinates.
 
 The canonical metrics were recalculated from the saved feature
 matrices using canonical cell-type labels and cosine silhouette.
+
+## Per-cell silhouette results
+
+`per_cell_silhouette_scores_canonical.csv` contains recalculated
+silhouette scores for all 2,671 cells, matched to canonical annotations
+by cell barcode. Its columns are cell barcode, Leiden cluster,
+cell type, Geneformer score, and Scanpy PCA score.
+
+Use this canonical file for cell-level inspection and downstream
+analysis. The historical `per_cell_silhouette_scores.csv` is retained
+for audit purposes and is not the canonical barcode-linked result.
