@@ -30,7 +30,7 @@ annotations and should not be treated as independent ground-truth labels.
 
 1. Prepare the expression matrix and Ensembl gene identifiers.
 2. Tokenize cells using Geneformer V1.
-3. Extract pretrained cell embeddings using mean pooling of the final layer.
+3. Extract pretrained cell embeddings using mean pooling of the second-to-last layer.
 4. Validate cell barcodes, metadata alignment, and embedding values.
 5. Visualize Geneformer embeddings using UMAP.
 6. Reconstruct a conventional Scanpy baseline using normalized,
@@ -122,7 +122,7 @@ The `results/verified_comparison/` directory contains:
   biological ground truth.
 - Rare cell populations have small sample sizes.
 - The PCA baseline uses 2,000 highly variable genes and 50 PCs, whereas
-  Geneformer uses 256-dimensional mean-pooled final-layer embeddings.
+  Geneformer uses 256-dimensional mean-pooled second-to-last-layer embeddings.
 - UMAP is a visualization and should not be used alone to rank methods.
 - Alternative pooling strategies, model layers, and robustness checks
   have not yet been evaluated.

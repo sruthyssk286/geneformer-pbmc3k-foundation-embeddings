@@ -100,7 +100,7 @@ The successful embedding extraction used:
 - Model version: `V1`.
 - Embedding mode: `cell`.
 - Cell embedding style: `mean_pool`.
-- Embedding layer: `-1` (final layer).
+- Embedding layer: `-1` (second-to-last layer).
 - Batch size: `16`.
 
 Output file:

@@ -5,7 +5,7 @@
 - Dataset: PBMC 3k.
 - Cells: 2,671.
 - Cell types: 6.
-- Geneformer: V1 10M, 256-dimensional mean-pooled final-layer embeddings.
+- Geneformer: V1 10M, 256-dimensional mean-pooled second-to-last-layer embeddings.
 - Scanpy baseline: 2,000 highly variable genes and 50 PCA components.
 - Metric: cosine silhouette.
 - Annotation reference: canonical `adata_annotated.h5ad`.
