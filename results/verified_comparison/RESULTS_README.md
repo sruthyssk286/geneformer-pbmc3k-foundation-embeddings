@@ -73,6 +73,19 @@ Rare populations have small sample sizes. UMAP is used for
 visualization and is not a quantitative comparison of absolute
 coordinates.
 
+The original Leiden clusters were generated from a neighbourhood graph
+constructed using the first 30 PCs of the Scanpy PCA representation.
+Biological cell-type annotations were subsequently assigned through
+marker-gene interpretation. Therefore, the annotations are partly
+dependent on PCA, creating a potential evaluation bias when the PCA
+representation is evaluated against those same annotations. The
+50-dimensional PCA representation evaluated here is related to, but
+not identical to, the 30-PC representation used to construct the
+neighbourhood graph. The silhouette comparison should consequently
+be interpreted as descriptive agreement with the existing annotation
+structure, not as an independent assessment of biological representation
+quality or universal model superiority.
+
 The canonical metrics were recalculated from the saved feature
 matrices using canonical cell-type labels and cosine silhouette.
 

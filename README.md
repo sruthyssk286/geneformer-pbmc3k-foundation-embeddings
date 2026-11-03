@@ -121,6 +121,13 @@ The `results/verified_comparison/` directory contains:
   they do not establish biological correctness.
 - The cell-type annotations are preliminary and are not independent
   biological ground truth.
+- The original Leiden clusters were generated using a neighbourhood
+  graph constructed from the first 30 PCs of the Scanpy PCA representation.
+  Consequently, the annotations are partly dependent on PCA. Because the
+  PCA representation is also evaluated against these annotations, this
+  comparison has a potential evaluation bias in favour of PCA.
+  The silhouette results are therefore descriptive, not an independent
+  assessment of biological representation quality.
 - Rare cell populations have small sample sizes.
 - The PCA baseline uses 2,000 highly variable genes and 50 PCs, whereas
   Geneformer uses 256-dimensional mean-pooled embeddings with `emb_layer=-1` (documented as the second-to-last layer in the implementation used; the exact source revision was not recorded).
