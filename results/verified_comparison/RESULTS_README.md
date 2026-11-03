@@ -40,19 +40,25 @@ have small sample sizes and require cautious interpretation.
 
 ## Annotation provenance audit
 
-The canonical annotations were read from
-`~/scrna-pbmc3k/data/adata_annotated.h5ad` and aligned to both
-feature matrices by cell barcode.
+The canonical cell-type and Leiden annotations are distributed in
+`per_cell_silhouette_scores_canonical.csv` and matched to the feature
+matrices by cell barcode.
 
-All 2,671 barcodes matched in both set and order. The saved comparison
-matrices had two cell-type assignments that differed from the
-canonical annotations:
+The canonical metadata was independently verified against the original
+`adata_annotated.h5ad` file for all 2,671 cells. All barcodes matched
+between the canonical metadata and both feature matrices, with no
+missing or unmatched cells.
 
-- `CCCTTACTGCAGTT-1`: saved cytotoxic/NK-associated; canonical T cells.
-- `GAACCAACCACAAC-1`: saved cytotoxic/NK-associated; canonical T cells.
+The historical saved annotations contained two cell-type assignments
+that differed from the canonical annotations:
 
-The remaining 2,669 cell-type assignments agreed. The original saved
-cell-type summary is retained separately for audit purposes.
+- `CCCTTACTGCAGTT-1`: historical cytotoxic/NK-associated; canonical T cells.
+- `GAACCAACCACAAC-1`: historical cytotoxic/NK-associated; canonical T cells.
+
+The remaining 2,669 historical cell-type assignments agreed with the
+canonical annotations. The canonical comparison metrics and per-cell
+scores were recalculated using the corrected annotations. Historical
+files are retained separately for audit purposes.
 
 ## Interpretation and limitations
 
