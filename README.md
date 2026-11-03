@@ -30,7 +30,7 @@ annotations and should not be treated as independent ground-truth labels.
 
 1. Prepare the expression matrix and Ensembl gene identifiers.
 2. Tokenize cells using Geneformer V1.
-3. Extract pretrained cell embeddings using mean pooling of the second-to-last layer.
+3. Extract pretrained cell embeddings using mean pooling with `emb_layer=-1` (documented as the second-to-last layer in the Geneformer implementation used).
 4. Validate cell barcodes, metadata alignment, and embedding values.
 5. Visualize Geneformer embeddings using UMAP.
 6. Reconstruct a conventional Scanpy baseline using normalized,
@@ -123,7 +123,7 @@ The `results/verified_comparison/` directory contains:
   biological ground truth.
 - Rare cell populations have small sample sizes.
 - The PCA baseline uses 2,000 highly variable genes and 50 PCs, whereas
-  Geneformer uses 256-dimensional mean-pooled second-to-last-layer embeddings.
+  Geneformer uses 256-dimensional mean-pooled embeddings with `emb_layer=-1` (documented as the second-to-last layer in the implementation used; the exact source revision was not recorded).
 - UMAP is a visualization and should not be used alone to rank methods.
 - Alternative pooling strategies, model layers, and robustness checks
   have not yet been evaluated.
@@ -135,10 +135,14 @@ Scanpy. The input data, model files, Geneformer dictionaries, and
 software dependencies must be available to reproduce the analysis.
 
 A runtime compatibility patch was needed during tokenization because
-of pandas indexing behavior in the installed environment. The complete
-tokenization and embedding-extraction workflow has not yet been packaged
-as a fully executable, clean-environment pipeline. Reproducibility work
-remains in progress.
+of pandas indexing behavior in the installed environment. A workflow
+script for Geneformer tokenization, embedding extraction, and output
+validation is included in `scripts/geneformer_pbmc_workflow.py`.
+However, the complete workflow from raw data through preprocessing and
+embedding extraction has not yet been validated in a clean environment.
+The script requires preprocessed Ensembl-ready AnnData input, a separate
+validation AnnData file, a Geneformer installation, model weights, and
+dictionary files. Reproducibility work remains in progress.
 
 See [requirements.txt](requirements.txt) for the current package
 specification. These requirements are not yet a complete environment

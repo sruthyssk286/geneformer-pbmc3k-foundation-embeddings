@@ -1,5 +1,12 @@
 # PBMC 3K Geneformer Foundation Model Analysis
 
+> **Historical exploratory summary:** This document records an earlier
+> analysis using a reconstructed 30-component PCA baseline. Its metrics
+> are not the current canonical comparison results. For the verified
+> comparison using 50 PCA components and corrected canonical cell-type
+> annotations, see
+> [the current verified comparison](verified_comparison/RESULTS_README.md).
+
 ## Objective
 Explore pretrained Geneformer V1 cell embeddings using a PBMC 3K single-cell RNA-seq dataset.
 
